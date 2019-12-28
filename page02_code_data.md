@@ -26,5 +26,3 @@ sidebar: true
   if ds.storage == remote %} DOI: {{ds.DOI}}{%endif%}
 {% endfor %}
 {% endif %}
-
-{% if site.data.figures %}
