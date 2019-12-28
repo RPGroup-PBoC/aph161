@@ -9,23 +9,17 @@
 # of the `page01_people.md` file.
 # ##############################################################################
 - author:
-  name: Dr. Osophila
-  link: "https://en.wikipedia.org/wiki/Drosophila"
-  title: Postdoctoral Scholar
-  img: dr_osophila.jpg
-  institute: Bicoid Institute of Development
+  name: Rob Phillips
+  link: "https://rpgroup.caltech.edu"
+  title: Instructor
+  img: rob.jpg
+  institute: Division of Biology and Biological Engineering and Department of Physics
   other_info:
-     Email Address: "flyguy@university.edu"
+     Email Address: "phillips [at] pboc [dot] caltech [dot] edu"
 - author:
-  name: Dr. Melanie O'Gaster
-  link: "https://en.wikipedia.org/wiki/Drosophila_melanogaster"
-  title: Postdoctoral Scholar
-  img: melanogaster.jpg
-  institute: French Flag Research Institute
-  other_info:
-    Current Location: Apple Juice Plates, Inc
-
-- author:
-  name: Sally Monella
-  title: Research Technician
-  institute: French Flag Research Institute
+  name: Vahe Galstyan
+  title: Graduate TA
+  img: vahe.jpg
+  institute: Biochemistry and Molecular Biophysics
+  other_info: 
+      Email Address: vgalstyan [at] caltech [dot] edu
