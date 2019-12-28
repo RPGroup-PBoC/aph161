@@ -28,27 +28,3 @@ sidebar: true
 {% endif %}
 
 {% if site.data.figures %}
-## Figure Generation
-
-{% for fig in site.data.figures %}
-<article class="post">
-
-<a class="post-thumbnail" style="background-image: url({{site.url}}/{{site.baseurl}}/assets/img/{{fig.pic}})" href="{{site.baseurl}}/figures/{{fig.pdf}}"> </a>
-
-<div class="post-content">
-<b class="post-title"><a href="{{site.url}}/{{site.baseurl}}/software/{{fig.filename}}">{{fig.title}}</a></b>
-<p> {{fig.desc}}</p>
-
-<i>Necessary Data Sets </i><br/>
-{% for ds in fig.req %}
-{% if ds.storage == 'local' %}
-{% assign link = "{{site.url}}/{{site.baseurl}}/datasets/{{ds.link}}" %}
-{% else %}
-{% assign link = "{{ds.link}}" %}
-{% endif %}
-<a style="font-size: 0.9em;" href="{{link}}"> - {{ds.title}} </a><br/>
-{% endfor %}
-</div>
-</article>
-{%endfor%}
-{% endif %}
