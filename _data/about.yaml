@@ -1,0 +1,27 @@
+# ##############################################################################
+# ABOUT
+# ------------------------------------------------------------------------------
+# This data file contains all information that will be displayed on the home
+# page of your website. The fields `title` and `authors` are necessary. These
+# keys cannot be changed or they will not be displayed on the website. 
+#
+# The remainder of the fileds can be changed to fit your needs. The field name
+# (e.g. abstract, summary, etc) Will appear with as H2 headings on the website.
+# The content below will appear 
+
+title: >
+  Physical Biology of the Cell
+
+About: >
+  It is a wonderful time to be thinking about the workings of the living world. 
+  Historic advances in molecular biology, structural biology and the use of biophysical 
+  techniques such as optical traps have provided an unprecedented window on the mechanics of the cell. 
+  The aim of this course is to study the cell and its components using whatever tools we need in order 
+  to make quantitative and predictive statements about cellular life. The main intellectual thread of 
+  the course will be the idea that the type of quantitative data which is becoming routine in biology 
+  calls for a corresponding quantitative modeling framework. The plan of this course is to elucidate 
+  general principles with exciting case studies.
+
+Where and When:  >
+  This course takes place on Mondays and Wednesdays in 100 Broad. Lectures are held
+  from 2:30 to 3:55 PM.
