@@ -24,7 +24,7 @@ Collaboration policy: you may discuss the homework with others, but your explana
 <tr>
 <td> <a href="{{site.baseurl}}/assets/hwk/{{hwk.pset}}"> {{hwk.name}} </a></td>
 <td> {{hwk.due_date}} </td> 
-<td> <a href="https://rpdata.caltech.edu/courses/aph161/2020/{{hwk.solns}}">Solutions</a></td>
+<td> <a href="{{site.baseurl}}/assets/hwk/{{hwk.solns}}">Solutions</a></td>
 </tr>
 {%endfor%}
 </table>
