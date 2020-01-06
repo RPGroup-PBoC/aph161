@@ -1,5 +1,5 @@
 - dataset:
   storage: local
-  name: E. coli growth movie
+  name: <i>E. coli</i> growth movie
   filetype: ".zip"
   link: ecoli_growth.zip
