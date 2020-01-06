@@ -16,8 +16,8 @@ Note that the syllabus is tentative and subject to change. Check back regularly 
 </tr>
 {% for day in site.data.syllabus %}
 <tr>
-    <td>{{day.date}}</td>
-    <td>{{day.week}}</td>
+    <td>{{day.date}} &nbsp &nbsp &nbsp </td>
+    <td>{{day.week}} &nbsp &nbsp &nbsp </td>
     <td>{{day.topic}}</td>
 </tr>
 {% endfor %}
