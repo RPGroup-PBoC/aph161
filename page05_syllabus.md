@@ -10,14 +10,14 @@ Note that the syllabus is tentative and subject to change. Check back regularly 
 
 <table>
 <tr>
-    <th><b>Date</b></th>
-    <th><b>Week  </b></th>
+    <th style="width:100px"><b>Date</b></th>
+    <th style="width:70px"><b>Week  </b></th>
     <th><b>Topic</b></th>
 </tr>
 {% for day in site.data.syllabus %}
 <tr>
-    <td>{{day.date}} &nbsp &nbsp &nbsp </td>
-    <td>{{day.week}} &nbsp &nbsp &nbsp </td>
+    <td>{{day.date}}  </td>
+    <td>{{day.week}}  </td>
     <td>{{day.topic}}</td>
 </tr>
 {% endfor %}
