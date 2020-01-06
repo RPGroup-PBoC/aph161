@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Readings
-img: readings.png # Add image post (optional)
+img: readings.jpg # Add image post (optional)
 permalink: readings 
 sidebar: true
 ---
