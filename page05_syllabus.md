@@ -1,15 +1,17 @@
 ---
 layout: page
 title: Syllabus
-img: lab.png # Add image post (optional)
+img: syllabus.png # Add image post (optional)
 permalink: syllabus
 sidebar: true
 ---
 
+Note that the syllabus is tentative and subject to change. Check back regularly for the most recent version.
+
 <table>
 <tr>
     <th><b>Date</b></th>
-    <th><b>Week</b></th>
+    <th><b>Week  </b></th>
     <th><b>Topic</b></th>
 </tr>
 {% for day in site.data.syllabus %}
@@ -20,4 +22,3 @@ sidebar: true
 </tr>
 {% endfor %}
 </table>
-
