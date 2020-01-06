@@ -1,13 +1,13 @@
 - day:
   date: > 
-   Monday, Jan. 6
+   Mon, Jan. 6
   week: 1
   topic: >
    Biological numeracy exam
 
 - day:
   date: > 
-   Weds. Jan. 8
+   Weds, Jan. 8
   week: 1
   topic: >
    Time scales in biology. What sets the time scale of division in bacteria?
@@ -16,21 +16,21 @@
 
 - day:
   date: > 
-   Monday, Jan. 13
+   Mon, Jan. 13
   week: 2
   topic: >
    What sets the time scale of division in bacteria continued.
 
 - day:
   date: > 
-   Tues. Jan. 14
+   Tues, Jan. 14
   week: 2
   topic: >
    (Make up # 1) Diffusion as biology’s null hypothesis.  Diffusion times and first encounter with dimensional analysis.
 
 - day:
   date: > 
-   Weds. Jan. 15
+   Weds, Jan. 15
   week: 2
   topic: >
    (Make up # 1) Diffusion continued. Diffusion as coin flips and binomial distribution as first of the great probability distributions.
@@ -39,14 +39,14 @@
 
 - day:
   date: > 
-   Tues. Jan. 21
+   Tues, Jan. 21
   week: 3
   topic: >
    (Make up # 2) Diffusion continued. Continuum theory protocol.  Experiments on 1D diffusion using molecular motors on cytoskeletal filaments.
 
 - day:
   date: > 
-   Weds. Jan. 22
+   Weds, Jan. 22
   week: 3
   topic: >
    Reaction-diffusion equations and pattern formation. Turing patterns.
@@ -55,21 +55,21 @@
 
 - day:
   date: > 
-   Monday Jan. 27
+   Mon, Jan. 27
   week: 4
   topic: >
    Intro to dynamical systems.  mRNA dynamics, cytoskeletal length dynamics.
 
 - day:
   date: > 
-   Tues. Jan. 28
+   Tues, Jan. 28
   week: 4
   topic: >
    Size control in biology - from the cytoskeleton to organelles
 
 - day:
   date: > 
-   Weds. Jan. 29
+   Weds, Jan. 29
   week: 4
   topic: >
    (Make up # 3) Active matter introduced - bird flocks.  cytoskeleton-motor systems. What energy buys us in living matter.
@@ -78,21 +78,21 @@
 
 - day:
   date: > 
-   Monday Feb. 3
+   Mon, Feb. 3
   week: 5
   topic: >
    Continuum theory protocol # 1 - elasticity theory in 1D, 2D and 3D
 
 - day:
   date: > 
-   Tuesday Feb. 4
+   Tues, Feb. 4
   week: 5
   topic: >
    (Make up # 4) Elasticity theory continued
 
 - day:
   date: > 
-   Weds. Feb. 5
+   Weds, Feb. 5
   week: 5
   topic: >
    Continuum theory protocol # 2 - hydrodynamics, Navier-Stokes equations, low and high Reynolds number
@@ -101,14 +101,14 @@
 
 - day:
   date: > 
-   Monday, Feb. 10
+   Mon, Feb. 10
   week: 6
   topic: >
    Hydrodynamics continued. Applications of hydrodynamics to biological problems.
 
 - day:
   date: > 
-   Weds. Feb. 12
+   Weds, Feb. 12
   week: 6
   topic: >
    Active matter theory.
@@ -117,7 +117,7 @@
 
 - day:
   date: > 
-   Weds. Feb. 19
+   Weds, Feb. 19
   week: 7
   topic: >
    Entropy rules.  The direction of spontaneous processes. The second law.
@@ -126,14 +126,14 @@
 
 - day:
   date: > 
-   Monday Feb. 24
+   Mon, Feb. 24
   week: 8
   topic: >
    Boltzmann’s law and statistical mechanics. Biology of binding.
 
 - day:
   date: > 
-   Weds. Feb. 26
+   Weds, Feb. 26
   week: 8
   topic: >
    Examples of binding. Ligand-receptor problems. Gene expression as a binding problem. The MWC model and allostery.
@@ -142,14 +142,14 @@
 
 - day:
   date: > 
-   Monday March 2
+   Mon, Mar. 2
   week: 9
   topic: >
     Physical evolution.
 
 - day:
   date: > 
-   Weds. March 4
+   Weds, Mar. 4
   week: 9
   topic: >
     The Biological Frontiers of Physics and Engineering.  A look to the future.

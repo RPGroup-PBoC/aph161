@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Homework
-img: code.png # Add image post (optional)
+img: hw.png # Add image post (optional)
 permalink: homework
 sidebar: true
 ---

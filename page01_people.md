@@ -2,14 +2,12 @@
 layout: page
 title: People
 description: About the authors
-img: peeps.png 
-caption: "Looking directly at the eclipse."
+img: peeps.png
 permalink: people
 sidebar: true
 ---
 
 ---
-
 
 <!--
 This page autogenerates a list of the authors provided in the people.yaml file
