@@ -8,15 +8,39 @@ sidebar: true
 
 ---
 
-{% if site.data.code %}
+{% if site.data.tutorials %}
 ## Code
-{% for script in site.data.code %}
-* [**{{script.name}}**]({{site.url}}/{{site.baseurl}}/software/{{script.name}})
-  \| {{script.desc}}
+
+{% for tut in site.data.tutorials %}
+
+<article class="post">
+<a class="post-thumbnail" style="background-image: url(http://rpgroup.caltech.edu/bige105/assets/img/{{tut.pic}})" href="{{site.url}}/{{site.baseurl}}/tutorials/{{tut.link}}.html"> </a>
+
+
+<div class="post-content">
+<b class="post-title"><a href="http://rpgroup.caltech.edu/bige105/tutorials/{{tut.link}}.html">{{tut.title}}</a></b>
+<p> {{tut.desc}}</p>
+<p>• <a href="http://rpgroup.caltech.edu/bige105/tutorials/{{tut.link}}.ipynb"> Jupyter Notebook (.ipynb)</a><br/></p>
+{% if fig.req %}<i>Necessary Data Sets </i><br/>
+{% for ds in fig.req %}
+{% if ds.storage == 'local' %}
+{% assign link = "{{site.url}}/{{site.baseurl}}/datasets/{{ds.link}}" %}
+{% else %}
+{% assign link = "{{ds.link}}" %}
+{% endif %}
+<a style="font-size: 0.9em;" href="{{link}}"> - {{ds.title}} </a><br/>
 {% endfor %}
 {% endif %}
+</div>
+
+</article>
+{%endfor%}
+{% endif %}
+
+
 
 {% if site.data.datasets %}
+
 ## Data Sets
 {% for ds in site.data.datasets %}
 * [{{ds.name}}]({%if ds.storage !=
@@ -26,3 +50,6 @@ sidebar: true
   if ds.storage == remote %} DOI: {{ds.DOI}}{%endif%}
 {% endfor %}
 {% endif %}
+
+
+
