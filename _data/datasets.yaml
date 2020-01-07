@@ -2,7 +2,7 @@
   storage: local
   name: ATP synthase spreadsheet
   filetype: ".xlsx"
-  link: atpSynthase_numbers
+  link: atpSynthase_numbers.xlsx
 
 - dataset:
   storage: local
