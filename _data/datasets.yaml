@@ -1,5 +1,11 @@
 - dataset:
   storage: local
+  name: ATP synthase spreadsheet
+  filetype: ".xlsx"
+  link: atpSynthase_numbers
+
+- dataset:
+  storage: local
   name: <i>E. coli</i> growth movie
   filetype: ".zip"
   link: ecoli_growth.zip
