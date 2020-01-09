@@ -21,5 +21,5 @@ specifically mention in class.
 
 ## Videos
 
-- <a href="https://www.youtube.com/watch?v=hRGg5it5FMI">**Some Animals Are More Equal than Others: Keystone Species and Trophic Cascades** (an HHMI video)</a>
+<li> <a style="text-decoration: none;" href="https://www.youtube.com/watch?v=hRGg5it5FMI"> <b>Some Animals Are More Equal than Others: Keystone Species and Trophic Cascades</b> (an HHMI video) </a> </li>
 
