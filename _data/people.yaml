@@ -12,6 +12,7 @@
   name: Rob Phillips
   link: "https://rpgroup.caltech.edu"
   title: Instructor
+  office_hour: Office hours: Tuesdays 1:45-2:30 PM in 159 Broad
   img: rob.jpg
   institute: Division of Biology and Biological Engineering and Department of Physics
   other_info:
@@ -19,7 +20,8 @@
 - author:
   name: Vahe Galstyan
   title: Graduate TA
+  office_hour: Office hours: Sundays 6:15-7 PM and Mondays 8:15-9 PM in SFL room GSR 218
   img: vahe.jpg
   institute: Biochemistry and Molecular Biophysics
   other_info: 
-      Email Address: vgalstyan [at] caltech [dot] edu
+      Email Address: "vgalstyan [at] caltech [dot] edu"
