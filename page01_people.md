@@ -48,7 +48,9 @@ you're doing, or it will break the display of the authors.
 <b class="post-title">{{author.name}}</b>
 {% endif %}
 <p>{{author.title}}</p>
-<p>{{author.office_hour}}</p>
+{% for oh in author.office_hour %}
+<p>{{oh[0]}}: {{oh[1]}}</p>
+{% endfor %}
 {% if author.institute %}
 <p>{{author.institute}}</p>
 {% endif %}
