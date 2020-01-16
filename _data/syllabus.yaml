@@ -39,17 +39,17 @@
 
 - day:
   date: > 
-   Tues, Jan. 21
-  week: 3
-  topic: >
-   (Make up #2) Diffusion continued. Continuum theory protocol.  Experiments on 1D diffusion using molecular motors on cytoskeletal filaments.
-
-- day:
-  date: > 
    Weds, Jan. 22
   week: 3
   topic: >
    Reaction-diffusion equations and pattern formation. Turing patterns.
+
+- day:
+  date: > 
+   Weds, Jan. 22 (6:30 PM)
+  week: 3
+  topic: >
+   (Make up #2) Diffusion continued. Continuum theory protocol.  Experiments on 1D diffusion using molecular motors on cytoskeletal filaments.
 
 
 
