@@ -24,7 +24,11 @@ Collaboration policy: you may discuss the homework with others, but your explana
 <tr>
 <td> <a href="{{site.baseurl}}/assets/hwk/{{hwk.pset}}"> {{hwk.name}} </a></td>
 <td> {{hwk.due_date}} </td> 
+{% if hwk.solns %}
 <td> <a href="{{site.baseurl}}/assets/hwk/{{hwk.solns}}">Solutions</a></td>
+{% else %}
+<td> {{'-'}} </td>
+{% endif %}
 </tr>
 {%endfor%}
 </table>
