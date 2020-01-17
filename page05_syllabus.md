@@ -19,12 +19,18 @@ Note that the syllabus is tentative and subject to change. Check back regularly 
     <th style="width:100px"><b>Date</b></th>
     <th style="width:70px"><b>Week  </b></th>
     <th><b>Topic</b></th>
+    <th><b>Slides</b></th>
 </tr>
 {% for day in site.data.syllabus %}
 <tr>
     <td>{{day.date}}  </td>
     <td>{{day.week}}  </td>
     <td>{{day.topic}}</td>
+  {% if day.slide %} 
+  <a href="http://rpdata.caltech.edu/courses/aph161/protected/2020/slides/{{day.slide}}"><b class="post-title">{{'Slides'}}</b></a>
+  {% else %}
+  <td> {{'-'}} </td>
+  {% endif %}
 </tr>
 {% endfor %}
 </table>

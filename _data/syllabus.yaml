@@ -4,6 +4,7 @@
   week: 1
   topic: >
    Biological numeracy exam
+  slide: APh161_2020_BiologyByNumbersExam.pdf
 
 - day:
   date: > 
@@ -11,7 +12,7 @@
   week: 1
   topic: >
    Time scales in biology. What sets the time scale of division in bacteria?
-
+  slide: APh161_2020_BiologyByNumbersExam.pdf
 
 
 - day:
@@ -27,6 +28,7 @@
   week: 2
   topic: >
    (Make up #1) Diffusion as biology’s null hypothesis.  Diffusion times and first encounter with dimensional analysis.
+  slide: APh161_2020_Diffusion.pdf
 
 - day:
   date: > 
@@ -34,7 +36,7 @@
   week: 2
   topic: >
    Diffusion continued. Diffusion as coin flips and binomial distribution as first of the great probability distributions.
-
+  slide: APh161_2020_Diffusion.pdf
 
 
 - day:
