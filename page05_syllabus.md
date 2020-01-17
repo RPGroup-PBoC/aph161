@@ -19,7 +19,7 @@ Note that the syllabus is tentative and subject to change. Check back regularly 
     <th style="width:100px"><b>Date</b></th>
     <th style="width:70px"><b>Week  </b></th>
     <th><b>Topic</b></th>
-    <th><b>Slides</b></th>
+    <th style="width:70px"><b>Slides</b></th>
 </tr>
 {% for day in site.data.syllabus %}
 <tr>
@@ -27,7 +27,8 @@ Note that the syllabus is tentative and subject to change. Check back regularly 
     <td>{{day.week}}  </td>
     <td>{{day.topic}}</td>
   {% if day.slide %} 
-  <a href="http://rpdata.caltech.edu/courses/aph161/protected/2020/slides/{{day.slide}}"><b class="post-title">{{'Slides'}}</b></a>
+  <td>
+  <a href="http://rpdata.caltech.edu/courses/aph161/protected/2020/slides/{{day.slide}}"><b class="post-title">{{'Slides'}}</b></a> </td>
   {% else %}
   <td> {{'-'}} </td>
   {% endif %}
