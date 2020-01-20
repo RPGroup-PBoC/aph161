@@ -15,3 +15,9 @@
   link: t0c/t0c_python_syntax_and_plotting
   desc:  This tutorial will walk you thorugh how to use the Jupyter Notebook
   pic: tut0c.png
+
+- tut:
+  title: "Tutorial 1: Bacterial Segmentation and Curve Fitting"
+  link: t1/t1_segmentation_fitting
+  desc:  This tutorial will walk you thorugh how segment bacterial colonies and perform simple curve fitting.
+  pic: tut1.png
