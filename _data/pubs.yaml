@@ -30,3 +30,25 @@
   journal: BMC biology
   fname: Gunawardena2014.pdf
   desc: >
+
+- pub:
+  title: >
+    Gene Regulation at the Single-Cell Level
+  authors: >
+    Nitzan Rosenfeld
+  year: 2005
+  vol_iss: 307(5717)
+  journal: Science
+  fname: Rosenfeld2005.pdf
+  desc: >
+
+- pub:
+  title: >
+    Real-Time Kinetics of Gene Activity in Individual Bacteria
+  authors: >
+    Ido Golding
+  year: 2005
+  vol_iss: 123(6)
+  journal: Cell
+  fname: Golding2005.pdf
+  desc: >
