@@ -64,46 +64,44 @@
 
 - day:
   date: > 
-   Mon, Jan. 27 (6:30 PM)
-  week: 4
-  topic: >
-   (Make up #3) Size control in biology - from the cytoskeleton to organelles
-
-- day:
-  date: > 
    Weds, Jan. 29
   week: 4
   topic: >
-   Active matter introduced - bird flocks.  cytoskeleton-motor systems. What energy buys us in living matter.
-
-
+   Size control in biology - from the cytoskeleton to organelles
 
 - day:
   date: > 
    Mon, Feb. 3
-  week: 5
+  week: 4
   topic: >
-   Continuum theory protocol # 1 - elasticity theory in 1D, 2D and 3D
+   Active matter introduced - bird flocks.  cytoskeleton-motor systems. What energy buys us in living matter.
 
-- day:
-  date: > 
-   Tues, Feb. 4
-  week: 5
-  topic: >
-   (Make up #4) Elasticity theory continued
 
 - day:
   date: > 
    Weds, Feb. 5
   week: 5
   topic: >
-   Continuum theory protocol # 2 - hydrodynamics, Navier-Stokes equations, low and high Reynolds number
+   Continuum theory protocol # 1 - elasticity theory in 1D, 2D and 3D
 
-
+- day:
+  date: > 
+   Weds, Feb. 5 (6:30 PM)
+  week: 5
+  topic: >
+   (Make up #3) Elasticity theory continued
 
 - day:
   date: > 
    Mon, Feb. 10
+  week: 5
+  topic: >
+   Continuum theory protocol # 2 - hydrodynamics, Navier-Stokes equations, low and high Reynolds number
+
+
+- day:
+  date: > 
+   Weds, Feb. 12
   week: 6
   topic: >
    Hydrodynamics continued. Applications of hydrodynamics to biological problems.
@@ -113,7 +111,7 @@
    Weds, Feb. 12
   week: 6
   topic: >
-   Active matter theory.
+   (Make up #4) Active matter theory.
 
 
 
