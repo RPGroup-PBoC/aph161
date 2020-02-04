@@ -52,3 +52,36 @@
   journal: Cell
   fname: Golding2005.pdf
   desc: >
+
+- pub:
+  title: >
+    Yeast kinesin-8 depolymerizes microtubules in a length-dependent manner
+  authors: >
+    Vladimir Varga, <i>et al.</i>
+  year: 2006
+  vol_iss: 8(9)
+  journal: Nature
+  fname: Varga2006.pdf
+  desc: >
+
+- pub:
+  title: >
+    An application of the Poisson distribution
+  authors: >
+    R. D. Clarke
+  year: 1946
+  vol_iss: 72(3)
+  journal: Journal of the Institute of Actuaries
+  fname: Clarke1946.pdf
+  desc: >
+
+- pub:
+  title: >
+    Blackawton bees
+  authors: >
+    Children from Blackawton, <i>et al.</i>
+  year: 2011
+  vol_iss: 7(2)
+  journal: Biology Letters
+  fname: Blackawton2011.pdf
+  desc: >
