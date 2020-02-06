@@ -9,3 +9,9 @@
   name: <i>E. coli</i> growth movie
   filetype: ".zip"
   link: ecoli_growth.zip
+
+- dataset:
+  storage: local
+  name: Bessel function zeros
+  filetype: ".xls"
+  link: Besselzeros_sorted.xls
