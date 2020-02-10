@@ -1,17 +1,17 @@
 - dataset:
   storage: local
-  name: ATP synthase spreadsheet
+  name: ATP synthase spreadsheet (HW 1)
   filetype: ".xlsx"
   link: atpSynthase_numbers.xlsx
 
 - dataset:
   storage: local
-  name: <i>E. coli</i> growth movie
+  name: <i>E. coli</i> growth movie (HW 2)
   filetype: ".zip"
   link: ecoli_growth.zip
 
 - dataset:
   storage: local
-  name: Bessel function zeros
+  name: Bessel function zeros (HW 5)
   filetype: ".xls"
   link: Besselzeros_sorted.xls
