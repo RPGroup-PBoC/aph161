@@ -24,12 +24,11 @@ Collaboration policy: you may discuss the homework with others, but your explana
 <tr>
 <td> <a href="{{site.baseurl}}/assets/hwk/{{hwk.pset}}"> {{hwk.name}} </a></td>
 <td> {{hwk.due_date}} </td> 
-  
 {% if hwk.solns %}
-  {% if hwk.code_files %}
-	  <td>
-      <a href="http://rpdata.caltech.edu/courses/aph161/protected/2020/solutions/{{hwk.solns}}"><b class="post-title">{{'Solutions'}}</b></a>
-      <a href="http://rpdata.caltech.edu/courses/aph161/protected/2020/solutions/{{hwk.code_files}}"><b class="post-title">{{'Code files (.zip)'}}</b>
+{% if hwk.code_files %}
+<td> <a href="http://rpdata.caltech.edu/courses/aph161/protected/2020/solutions/{{hwk.solns}}"><b class="post-title">{{'Solutions'}}</b></a> 
+
+<br>      <a href="http://rpdata.caltech.edu/courses/aph161/protected/2020/solutions/{{hwk.code_files}}"><b class="post-title">{{'Code files (.zip)'}}</b>
     </td>
   {% else %}   
       <td>
