@@ -118,3 +118,14 @@
   journal: >
   fname: Mermin2005.pdf
   desc: >
+
+- pub:
+  title: >
+    The depolymerizing kinesin MCAK uses lattice diffusion to rapidly target microtubule ends
+  authors: >
+    Jonne Helenius, <i>et al.</i>
+  year: 2006
+  vol_iss: 441(4)
+  journal: Nature
+  fname: Helenius2006.pdf
+  desc: >
