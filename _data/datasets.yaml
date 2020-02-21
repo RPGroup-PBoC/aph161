@@ -15,3 +15,9 @@
   name: Bessel function zeros (HW 5)
   filetype: ".xls"
   link: Besselzeros_sorted.xls
+
+- dataset:
+  storage: local
+  name: MCAK diffusion data (HW 6)
+  filetype: ".xlsx"
+  link: Helenius2006_Fig2B.xlsx
