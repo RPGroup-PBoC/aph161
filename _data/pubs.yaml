@@ -151,3 +151,80 @@
   journal: Nature
   fname: Labarca1995.pdf
   desc: >
+
+- pub:
+  title: >
+    Probing the Limits to Positional Information
+  authors: >
+    Thomas Gregor, <i>et al.</i>
+  year: 2006
+  vol_iss: 130(1)
+  journal: Cell
+  fname: Gregor2007a.pdf
+  desc: >
+
+- pub:
+  title: >
+    Quantifying <i>E. coli</i> proteome and transcriptome with single-molecule sensitivity in single cells
+  authors: >
+    Yuichi Taniguchi, <i>et al.</i>
+  year: 2010
+  vol_iss: 329(5991)
+  journal: Science
+  fname: Gregor2007a.pdf
+  desc: >
+
+- pub:
+  title: >
+    The bicoid protein is a positive regulator of hunchback transcription in the early <i>Drosophila</i> embryo
+  authors: >
+    Wolfgang Driever and Christiane Nüsslein-Volhard
+  year: 1989
+  vol_iss: 337(6203)
+  journal: Nature
+  fname: Driever1989.pdf
+  desc: >
+
+- pub:
+  title: >
+    Dynamic interpretation of maternal inputs by the <i>Drosophila</i> segmentation gene network
+  authors: >
+    Feng Liu, <i>et al.</i>
+  year: 2013
+  vol_iss: 110(17)
+  journal: PNAS
+  fname: Liu2013.pdf
+  desc: >
+
+- pub:
+  title: >
+    High Mobility of Bicoid Captured by Fluorescence Correlation Spectroscopy: Implication for the Rapid Establishment of Its Gradient
+  authors: >
+    Asmahan Abu-Arish, <i>et al.</i>
+  year: 2010
+  vol_iss: 99(4)
+  journal: Biophysical Journal
+  fname: Abu-Arish2010.pdf
+  desc: >
+
+- pub:
+  title: >
+    Maternal Origins of Developmental Reproducibility
+  authors: >
+    Mariela D. Petkova, <i>et al.</i>
+  year: 2014
+  vol_iss: 24(11)
+  journal: Current Biology
+  fname: Petkova2014.pdf
+  desc: >
+
+- pub:
+  title: >
+    Measurement and Perturbation of Morphogen Lifetime: Effects on Gradient Shape
+  authors: >
+    Jeffrey A. Drocco, <i>et al.</i>
+  year: 2011
+  vol_iss: 101(8)
+  journal: Biophysical journal
+  fname: Drocco2011.pdf
+  desc: >
