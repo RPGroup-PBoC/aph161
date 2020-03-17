@@ -176,13 +176,13 @@
 
 - pub:
   title: >
-    The bicoid protein is a positive regulator of hunchback transcription in the early <i>Drosophila</i> embryo
+    The <i>bicoid</i> protein determines position in the Drosophila embryo in a concentration-dependent manner
   authors: >
     Wolfgang Driever and Christiane Nüsslein-Volhard
   year: 1989
-  vol_iss: 337(6203)
-  journal: Nature
-  fname: Driever1989.pdf
+  vol_iss: 54(1)
+  journal: Cell
+  fname: Driever-1988.pdf
   desc: >
 
 - pub:
