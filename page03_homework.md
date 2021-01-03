@@ -22,7 +22,7 @@ Collaboration policy: you may discuss the homework with others, but your explana
 </tr>
 {% for hwk in site.data.homework %}
 <tr>
-<td> <a href="{{site.baseurl}}/assets/hwk/{{hwk.pset}}"> {{hwk.name}} </a></td>
+<td> <a href="/assets/hwk/{{hwk.pset}}"> {{hwk.name}} </a></td>
 <td> {{hwk.due_date}} </td> 
 {% if hwk.solns %}
 <td>
