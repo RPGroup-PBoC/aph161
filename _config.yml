@@ -25,4 +25,4 @@ plugins:
 
 # Files to exclude from the website build. You may not want to include all data
 # files for example.
-exclude: ["2020", "node_modules", "gulpfile.js", "package.json", "yarn.lock", "data_files"]
+exclude: ["2020","2021", "node_modules", "gulpfile.js", "package.json", "yarn.lock", "data_files"]
