@@ -12,18 +12,43 @@
   name: Rob Phillips
   link: "https://rpgroup.caltech.edu"
   title: Instructor
-  office_hour: 
-     Office hours: "Tuesdays 1:45-2:30 PM in 159 Broad"
   img: rob.jpg
   institute: Division of Biology and Biological Engineering and Department of Physics
   other_info:
      Email Address: "phillips [at] pboc [dot] caltech [dot] edu"
+
+- author:
+  name: Suzy Beeler
+  title: Graduate TA
+  img: sbeeler.jpg
+  institute: Biology
+  other_info: 
+      Email Address: "sbeeler [at] caltech [dot] edu"
+
 - author:
   name: Vahe Galstyan
   title: Graduate TA
-  office_hour: 
-    Office hours: "Sundays 6:15-7 PM and Mondays 8:15-9 PM in SFL room GSR 218"
   img: vahe.jpg
+  office_hour: 
   institute: Biochemistry and Molecular Biophysics
   other_info: 
       Email Address: "vgalstyan [at] caltech [dot] edu"
+
+- author:
+  name: Soichi Hirokawa
+  title: Graduate TA
+  img: soichi.jpg
+  institute: Applied Physics
+  other_info: 
+      Email Address: "shirokaw [at] caltech [dot] edu"
+
+
+- author:
+  name: Manuel Razo-Mejia
+  title: Graduate TA
+  img: manuel.jpg
+  institute: Biochemistry and Molecular Biophysics
+  other_info: 
+      Email Address: "mrazomej [at] caltech [dot] edu"
+
+

@@ -1,181 +1,79 @@
 - day:
   date: > 
-   Mon, Jan. 6
+   Mon, Jan. 4
   week: 1
   topic: >
-   Biological numeracy exam
-  slide: APh161_2020_BiologyByNumbersExam.pdf
+    <b>Perspective, vision, and preliminaries.</b> Here we introduce some of the
+    broad philosophical themes that animate our subject and this course.
+    SARS-CoV-2 and the pandemic. Science and life in a global pandemic.
+    Barbara McClintock and a feeling for the organism. Schro ̈dinger’s “What
+    is Life?” at 75. The physical basis of the living organ- ism. Order of
+    magnitude thinking and street-fighting mathematics. Tom Hanks, Wilson and
+    what we can figure out by pure thought alone. Survey of what it means to
+    be the physics of a subject. Topics we want to do physics to in the study
+    of the living world.
 
 - day:
   date: > 
-   Weds, Jan. 8
-  week: 1
-  topic: >
-   Time scales in biology. What sets the time scale of division in bacteria?
-  slide: APh161_2020_BiologyByNumbersExam.pdf
-
-
-- day:
-  date: > 
-   Mon, Jan. 13
+   Mon, Jan. 11 
   week: 2
   topic: >
-   What sets the time scale of division in bacteria continued.
-
+    <b>A feeling for the organism.</b> What limits the rate of bacterial cell
+    division? Linking modern proteomics and order of magnitude thinking to
+    get a feeling for the processes controlling the rate of cell division.
+    Scaling, dimensionless ratios and non-dimensionalization. Buckingham Pi
+    theorem. Discovering Fick’s law and diffusion time by di- mensional
+    analysis. Scaling of organelles with cell size. The nucleolus as a case
+    study.
+  
 - day:
   date: > 
-   Mon, Jan. 13 (6:30 PM)
-  week: 2
-  topic: >
-   (Make up #1) Diffusion as biology’s null hypothesis.  Diffusion times and first encounter with dimensional analysis.
-  slide: APh161_2020_Diffusion.pdf
-
-- day:
-  date: > 
-   Weds, Jan. 15
-  week: 2
-  topic: >
-   Diffusion continued. Diffusion as coin flips and binomial distribution as first of the great probability distributions.
-  slide: APh161_2020_Diffusion.pdf
-
-
-- day:
-  date: > 
-   Weds, Jan. 22
+   Mon, Jan. 18
   week: 3
   topic: >
-   Reaction-diffusion equations and pattern formation. Turing patterns.
+    <b>From Data to Insight: Thinking Big About Data.</b> The great probability
+    distributions, the stories they tell, how to use them. The unexpected
+    reach of coin flips in probabilistic thinking and the way we see the
+    world. Case study in molecular partitioning during cell division. The
+    Poisson distribution. Prussian horses to bombs over London to mRNA in
+    yeast. How cells keep their size constant from one generation to the
+    next.
 
 - day:
   date: > 
-   Weds, Jan. 22 (6:30 PM)
-  week: 3
-  topic: >
-   (Make up #2) Diffusion continued. Continuum theory protocol.  Experiments on 1D diffusion using molecular motors on cytoskeletal filaments.
-
-
-
-- day:
-  date: > 
-   Mon, Jan. 27
+   Mon, Jan. 25
   week: 4
   topic: >
-   Intro to dynamical systems.  mRNA dynamics, cytoskeletal length dynamics.
+    <b>The Dynamical Cell.</b> Diffusion as biology’s dynamical null model.
+    Diffusion as viewed using coin flips, Langevin equations, chemical master
+    equations, the diffusion equation. Fluorescence-recovery after
+    photobleaching (FRAP). Reaction-diffusion and positional information.
+    Turing patterns. The dynamics of chemical transformation. Rate equations.
+    Michaelis-Menten kinetics. Compartmentalization of the reactions of
+    carbon fixation. Dynam- ics of sRNA regulation in bacteria. Cytoskeletal
+    length control. Dynamical systems as a paradigm for time evolution in
+    biology and beyond. mRNA production. Two-state models of transcription.
 
 - day:
   date: > 
-   Weds, Jan. 29
-  week: 4
-  topic: >
-   Size control in biology - from the cytoskeleton to organelles
-
-- day:
-  date: > 
-   Mon, Feb. 3
-  week: 4
-  topic: >
-   Active matter introduced - bird flocks.  cytoskeleton-motor systems. What energy buys us in living matter.
-
-
-- day:
-  date: > 
-   Weds, Feb. 5
+   Mon, Feb. 1
   week: 5
   topic: >
-   Continuum theory protocol # 1 - elasticity theory in 1D, 2D and 3D
+    <b>Life as Defiance.</b> What is equilibrium? What is equilibrium thinking
+    and what place does it have in biology? What is life? Life as a series of
+    defiances of the tendency towards equilibrium. Case study in beating
+    diffusion - membrane potentials to molecular motors.
 
 - day:
   date: > 
-   Weds, Feb. 5 (6:30 PM)
-  week: 5
-  topic: >
-   (Make up #3) Elasticity theory continued
-
-- day:
-  date: > 
-   Mon, Feb. 10
-  week: 5
-  topic: >
-   Continuum theory protocol # 2 - hydrodynamics, Navier-Stokes equations, low and high Reynolds number
-
-
-- day:
-  date: > 
-   Weds, Feb. 12
-  week: 6
-  topic: >
-   Hydrodynamics continued. Applications of hydrodynamics to biological problems.
-
-- day:
-  date: > 
-   Weds, Feb. 12
-  week: 6
-  topic: >
-   (Make up #4) Active matter theory.
-
-
-
-- day:
-  date: > 
-   Weds, Feb. 19
-  week: 7
-  topic: >
-   Entropy rules.  The direction of spontaneous processes. The second law.
-
-
-
-- day:
-  date: > 
-   Mon, Feb. 24
-  week: 8
-  topic: >
-   Boltzmann’s law and statistical mechanics. Biology of binding.
-
-- day:
-  date: > 
-   Weds, Feb. 26
-  week: 8
-  topic: >
-   Examples of binding. Ligand-receptor problems. Gene expression as a binding problem. The MWC model and allostery.
-
-
-
-- day:
-  date: > 
-   Mon, Mar. 2
-  week: 9
-  topic: >
-    Physical evolution.
-
-- day:
-  date: > 
-   Weds, Mar. 4
-  week: 9
-  topic: >
-    The Biological Frontiers of Physics and Engineering.  A look to the future.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   Mon, Feb. 8 
+  topic: > 
+    <b>Theory of Living matter.</b> The place of field theory in science. The
+    place of field theory in biology. Continuum theory protocol.
+    The theory of linear elasticity. Gut folding as a case study. The theory
+    of hydrodynamics. Cytoplasmic streaming as a case study. The theory of
+    viscoelasticity. Cell junction dynamics as a case study. Active matter.
+    Dynamics of actomyosin in embryos. Dynamics of tissues.
 
 
 

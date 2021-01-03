@@ -1,6 +1,7 @@
 title: APh161
 description: Physical Biology of the Cell 
-year: "2020"
+year: "2021"
+destination: "2021/"
 baseurl:  "" # the subpath of your site, In most cases this can be left blank
 url: "" # Base of your website.In most cases, this will be left blank
 
@@ -24,4 +25,4 @@ plugins:
 
 # Files to exclude from the website build. You may not want to include all data
 # files for example.
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "data_files"]
+exclude: ["2020", "node_modules", "gulpfile.js", "package.json", "yarn.lock", "data_files"]
