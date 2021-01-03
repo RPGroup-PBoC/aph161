@@ -20,9 +20,9 @@ sidebar: true
 
 
 <div class="post-content">
-<b class="post-title"><a href="http://rpgroup.caltech.edu/aph161/assets/tut/{{tut.link}}.html">{{tut.title}}</a></b>
+<b class="post-title"><a href="assets/tut/{{tut.link}}.html">{{tut.title}}</a></b>
 <p> {{tut.desc}}</p>
-<p>• <a href="http://rpgroup.caltech.edu/aph161/assets/tut/{{tut.link}}.ipynb"> Jupyter Notebook (.ipynb)</a><br/></p>
+<p>• <a href="assets/tut/{{tut.link}}.ipynb"> Jupyter Notebook (.ipynb)</a><br/></p>
 {% if fig.req %}<i>Necessary Data Sets </i><br/>
 {% for ds in fig.req %}
 {% if ds.storage == 'local' %}
