@@ -2,7 +2,7 @@ title: APh161
 description: Physical Biology of the Cell 
 year: "2021"
 destination: "2021/"
-baseurl:  "" # the subpath of your site, In most cases this can be left blank
+baseurl:  "aph161/" # the subpath of your site, In most cases this can be left blank
 url: "" # Base of your website.In most cases, this will be left blank
 
 # You can include social icons
