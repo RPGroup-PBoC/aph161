@@ -28,7 +28,7 @@ Note that the syllabus is tentative and subject to change. Check back regularly 
     <td>{{day.topic}}</td>
   {% if day.slide %} 
   <td>
-  <a href="http://rpdata.caltech.edu/courses/aph161/protected/{{site.year}}/slides/{{day.slide}}"><b class="post-title">{{'Slides'}}</b></a> </td>
+  <a href="http://rpdata.caltech.edu/courses/aph161/protected/2020/slides/{{day.slide}}"><b class="post-title">{{'Slides'}}</b></a> </td>
   {% else %}
   <td> {{'-'}} </td>
   {% endif %}

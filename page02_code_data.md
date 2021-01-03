@@ -15,7 +15,7 @@ sidebar: true
 {% for tut in site.data.tutorials %}
 
 <article class="post">
-<a class="post-thumbnail" style="background-image: url({{site.baseurl}}/assets/img/{{tut.pic}})" href="{{site.url}}/{{site.baseurl}}/tutorials/{{tut.link}}.html"> </a>
+<a class="post-thumbnail" style="background-image: url({{site.baseurl}}/{{site.year}}/assets/img/{{tut.pic}})" href="{{site.url}}/{{site.baseurl}}/tutorials/{{tut.link}}.html"> </a>
 
 
 

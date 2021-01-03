@@ -46,9 +46,9 @@
     <meta content="{{ site.url }}/about/" property="article:author">
   {% endif %}
   {% if page.img %}
-    <meta content="https://rpgroup.caltech.edu/aph161/{{site.year}}/assets/img/{{ page.img }}" property="og:image">
+    <meta content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ page.img }}" property="og:image">
   {% else %}
-    <meta content="https://rpgroup.caltech.edu/aph161/{{site.year}}/assets/img/{{ site.author-img }}" property="og:image">
+    <meta content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.author-img }}" property="og:image">
   {% endif %}
   {% if page.categories %}
     {% for category in page.categories limit:1 %}
@@ -78,9 +78,9 @@
     <meta name="twitter:description" content="{{ site.description }}">
   {% endif %}
   {% if page.img %}
-    <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}/{{site.year}}/assets/img/{{ page.img }}">
+    <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ page.img }}">
   {% else %}
-    <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}/{{site.year}}/assets/img/{{ site.author-img }}">
+    <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.author-img }}">
   {% endif %}
 
 	<meta name="description" content="{{ page.description }}">
@@ -101,7 +101,7 @@
 	<link href="https://fonts.googleapis.com/css?family=PT+Serif:400,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
 	<!-- Font Awesome -->
-	<link rel="stylesheet" href="https://rpgroup.caltech.edu/aph161/{{site.year}}/assets/fonts/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="{{ "/assets/fonts/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl }}">
 	<!-- Styles -->
-	<link rel="stylesheet" href="https://rpgroup.caltech.edu/aph161/{{site.year}}/assets/css/main.css">
+	<link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
 </head>
