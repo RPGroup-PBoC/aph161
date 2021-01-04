@@ -19,19 +19,31 @@ Note that the syllabus is tentative and subject to change. Check back regularly 
     <th style="width:100px"><b>Date</b></th>
     <th style="width:70px"><b>Week  </b></th>
     <th><b>Topic</b></th>
-    <th style="width:70px"><b>Slides</b></th>
+    <th style="width:70px"><b>Videos</b></th>
 </tr>
 {% for day in site.data.syllabus %}
 <tr>
     <td>{{day.date}}  </td>
     <td>{{day.week}}  </td>
-    <td>{{day.topic}}</td>
-  {% if day.slide %} 
+    <td>{{day.topic}}</td> 
+    {% if day.videos %}
+    <td>
+    {% for v in day.videos %}
+    <a href="http://rpdata.caltech.edu/courses/aph161/2021/videos/{{v.name}}">{{v.title}}</a><br/>
+    {%endfor%}
+    </td>
+    {% else %}
+    <td> --</td>
+    {%endif%}
+  <!-- {% if day.slide %} 
   <td>
-  <a href="http://rpdata.caltech.edu/courses/aph161/protected/2020/slides/{{day.slide}}"><b class="post-title">{{'Slides'}}</b></a> </td>
+  {% for s in day.slide %}
+  <a href="http://rpdata.caltech.edu/courses/aph161/protected/2020/videos/{{s}}"><b class="post-title">{{s}}</b></a> 
+  {%endfor%}
+  </td>
   {% else %}
   <td> {{'-'}} </td>
-  {% endif %}
+  {% endif %} -->
 </tr>
 {% endfor %}
 </table>
