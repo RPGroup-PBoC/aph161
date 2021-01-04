@@ -31,7 +31,7 @@ Note that the syllabus is tentative and subject to change. Check back regularly 
     {%endfor%}
     {%endif %}
     </td> 
-    {%endif%}
+
   <!-- {% if day.slide %} 
   <td>
   {% for s in day.slide %}
