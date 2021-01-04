@@ -19,21 +19,18 @@ Note that the syllabus is tentative and subject to change. Check back regularly 
     <th style="width:100px"><b>Date</b></th>
     <th style="width:70px"><b>Week  </b></th>
     <th><b>Topic</b></th>
-    <th style="width:70px"><b>Videos</b></th>
 </tr>
 {% for day in site.data.syllabus %}
 <tr>
     <td>{{day.date}}  </td>
     <td>{{day.week}}  </td>
-    <td>{{day.topic}}</td> 
+    <td>{{day.topic}}<br/>
     {% if day.videos %}
-    <td>
     {% for v in day.videos %}
     <a href="http://rpdata.caltech.edu/courses/aph161/2021/videos/{{v.name}}">{{v.title}}</a><br/>
     {%endfor%}
-    </td>
-    {% else %}
-    <td> --</td>
+    {%endif %}
+    </td> 
     {%endif%}
   <!-- {% if day.slide %} 
   <td>
