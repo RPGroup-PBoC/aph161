@@ -16,12 +16,3 @@ specifically mention in class.
 {% for pub in site.data.pubs %}
 <li> <a style="text-decoration: none;" href="http://rpdata.caltech.edu/courses/aph161/protected/{{site.year}}/papers/{{pub.fname}}"> <b>{{pub.title}}</b> by {{pub.authors}} in {{pub.journal}}, {{pub.year}}, {{pub.vol_iss}}.</a> {{pub.desc}}</li>
 {% endfor %}
-
-
-
-
-
-## Videos
-
-<li> <a style="text-decoration: none;" href="https://www.youtube.com/watch?v=hRGg5it5FMI"> <b>Some Animals Are More Equal than Others: Keystone Species and Trophic Cascades</b> (an HHMI video) </a> </li>
-
