@@ -10,7 +10,9 @@ sidebar: true
 
 <b>Required text:</b> Physical Biology of the Cell (2nd ed) by Phillips, Kondev, Theriot and Garcia (ISBN: 0815344503)
 
-The syllabus (PDF) is tentative and subject to change. Refer to the list below for the prerecorded video lectures.
+The syllabus ([PDF](http://rpdata.caltech.edu/courses/aph161/2021/videos/A_Feeling_For_The_Organism.mp4)) is tentative and subject to change. Refer to the list below for the prerecorded video lectures.
+
+
 
 <table>
 <tr>

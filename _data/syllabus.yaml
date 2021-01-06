@@ -11,75 +11,17 @@
       title: Order-of-magnitude thinking (08:51)
     - name: TransformativeTechnologies.mp4
       title: Transformative technologies (09:48)
-    # - name: Biological_Numeracy_Exam.mp4
-      # title: Biological numeracy exam (16:54)
     - name: SchrodingerWhatIsLife.mp4
       title: Schrödinger's "What Is Life?" (22:08)
     - name: Doing_Physics_To_It.mp4
       title: Doing physics to it (20:18)
-
-
-
-- day:
-  date: > 
-   Mon, Jan. 11 
-  week: 2
-  topic: >
-    <b>A feeling for the organism.</b> What limits the rate of bacterial cell
-    division? Linking modern proteomics and order of magnitude thinking to
-    get a feeling for the processes controlling the rate of cell division.
-    Scaling, dimensionless ratios and non-dimensionalization. Buckingham Pi
-    theorem. Discovering Fick’s law and diffusion time by di- mensional
-    analysis. Scaling of organelles with cell size. The nucleolus as a case
-    study.
-  
-- day:
-  date: > 
-   Mon, Jan. 18
-  week: 3
-  topic: >
-    <b>From Data to Insight: Thinking Big About Data.</b> The great probability
-    distributions, the stories they tell, how to use them. The unexpected
-    reach of coin flips in probabilistic thinking and the way we see the
-    world. Case study in molecular partitioning during cell division. The
-    Poisson distribution. Prussian horses to bombs over London to mRNA in
-    yeast. How cells keep their size constant from one generation to the
-    next.
-- day:
-  date: > 
-   Mon, Jan. 25
-  week: 4
-  topic: >
-    <b>The Dynamical Cell.</b> Diffusion as biology’s dynamical null model.
-    Diffusion as viewed using coin flips, Langevin equations, chemical master
-    equations, the diffusion equation. Fluorescence-recovery after
-    photobleaching (FRAP). Reaction-diffusion and positional information.
-    Turing patterns. The dynamics of chemical transformation. Rate equations.
-    Michaelis-Menten kinetics. Compartmentalization of the reactions of
-    carbon fixation. Dynam- ics of sRNA regulation in bacteria. Cytoskeletal
-    length control. Dynamical systems as a paradigm for time evolution in
-    biology and beyond. mRNA production. Two-state models of transcription.
-
-- day:
-  date: > 
-   Mon, Feb. 1
-  week: 5
-  topic: >
-    <b>Life as Defiance.</b> What is equilibrium? What is equilibrium thinking
-    and what place does it have in biology? What is life? Life as a series of
-    defiances of the tendency towards equilibrium. Case study in beating
-    diffusion - membrane potentials to molecular motors.
-
-- day:
-  date: > 
-   Mon, Feb. 8 
-  topic: > 
-    <b>Theory of Living matter.</b> The place of field theory in science. The
-    place of field theory in biology. Continuum theory protocol.
-    The theory of linear elasticity. Gut folding as a case study. The theory
-    of hydrodynamics. Cytoplasmic streaming as a case study. The theory of
-    viscoelasticity. Cell junction dynamics as a case study. Active matter.
-    Dynamics of actomyosin in embryos. Dynamics of tissues.
-
-
-
+    - name: Biological_Numeracy_Exam.mp4
+      title: Biological numeracy exam (16:54)
+    - name: What_Sets_Bacterial_Division_Time_Hypotheses.mp4
+      title: What sets the bacterial division time? (17:15)
+    - name: What_Sets_Bacterial_Division_Time_Proteomics.mp4
+      title: Rate limiting hypothesis: Proteomics (18:42)
+    - name: Carbon_Transport_Limiting.mp4
+      title: Rate limiting hypothesis: Carton transport (14:15)
+    - name: ATP_Synthase_Limiting.mp4
+      title: Rate limiting hypothesis: ATP synthase (13:25)
