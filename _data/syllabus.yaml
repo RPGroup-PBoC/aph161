@@ -14,6 +14,8 @@
       title: Schrödinger's "What Is Life?" (22:08)
     - name: Doing_Physics_To_It.mp4
       title: Doing physics to it (20:18)
+    - name: Biological_Numeracy_Exam.mp4
+      title: Biological numeracy exam (16:54)
 
 - day:
   date: > 
@@ -21,8 +23,6 @@
   topic: >
     <b>2.1 Rate of cell division.</b>
   videos:
-    - name: Biological_Numeracy_Exam.mp4
-      title: Biological numeracy exam (16:54)
     - name: What_Sets_Bacterial_Division_Time_Hypotheses.mp4
       title: What sets the bacterial division time? (17:15)
     - name: Laws_Of_Cellular_Growth.mp4
