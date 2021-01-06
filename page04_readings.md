@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Readings and Videos
+title: Readings
 img: readings.jpg # Add image post (optional)
 permalink: readings 
 sidebar: true
