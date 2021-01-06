@@ -2,7 +2,7 @@
   date: > 
    Week of Jan. 4 (#1)
   topic: >
-    <h1>1. Perspective, vision, and preliminaries.</h1> 
+    <h3>1. Perspective, vision, and preliminaries.</h3> 
   videos: 
     - name: A_Feeling_For_The_Organism.mp4
       title: A feeling for the organism (04:42)
@@ -21,7 +21,7 @@
   date: > 
    Week of Jan. 4 (#1)
   topic: >
-    <h1>2. A Feeling for the Organism.</h1> 
+    <h3>2. A Feeling for the Organism.</h3> 
     <b>2.1 Rate of cell division.</b>
   videos:
     - name: What_Sets_Bacterial_Division_Time_Hypotheses.mp4
@@ -39,6 +39,6 @@
     - name: Transcription_Limiting.mp4
       title: Rate limiting hypothesis -- Transcription (16:15)
     - name: Ribosome_Limiting.mp4
-      title: Rate limiting hypothesis -- Ribosomes (TBA)
+      title: Rate limiting hypothesis -- Ribosomes (07:21)
     - name: What_Sets_Bacterial_Division_Time_Summary.mp4
       title: Rate limiting hypothesis -- Summary (06:42)
