@@ -10,9 +10,7 @@ sidebar: true
 
 <b>Required text:</b> Physical Biology of the Cell (2nd ed) by Phillips, Kondev, Theriot and Garcia (ISBN: 0815344503)
 
-
-
-Note that the syllabus is tentative and subject to change. Check back regularly for the most recent version.
+The syllabus (PDF) is tentative and subject to change. Refer to the list below for the prerecorded video lectures.
 
 <table>
 <tr>
