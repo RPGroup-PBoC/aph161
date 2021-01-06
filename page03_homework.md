@@ -19,13 +19,20 @@ Collaboration policy: you may discuss the homework with others, but your explana
 <table>
 <tr>
 <th> <b>Homework</b></th>
-<th> <b> Due Date</b> </th>
+<th> <b> Due date</b> </th>
+<th> <b> Associated files</b> </th>
 <th> <b> Solutions</b> </th><br/>
 </tr>
 {% for hwk in site.data.homework %}
 <tr>
 <td> <a href="assets/hwk/{{hwk.pset}}"> {{hwk.name}} </a></td>
-<td> {{hwk.due_date}} </td> 
+<td> {{hwk.due_date}} </td>
+<td> {% if hwk.files %}
+	{% for f in hwk.files %}
+    <a href="http://rpdata.caltech.edu/courses/aph161/protected/2021/hw_files/{{f.name}}">{{f.title}}</a><br/>
+    {%endfor%}
+	{%endif %}
+</td>
 {% if hwk.solns %}
 <td>
   <a href="http://rpdata.caltech.edu/courses/aph161/protected/{{site.year}}/solutions/{{hwk.solns}}"><b class="post-title">{{'Solutions'}}</b></a> 
@@ -42,5 +49,11 @@ Collaboration policy: you may discuss the homework with others, but your explana
 </table>
 
 
-
+<td>{{day.topic}}
+    {% if day.videos %}
+    {% for v in day.videos %}
+    <a href="http://rpdata.caltech.edu/courses/aph161/2021/videos/{{v.name}}">{{v.title}}</a><br/>
+    {%endfor%}
+    {%endif %}
+    </td> 
 
