@@ -1,9 +1,8 @@
 - day:
   date: > 
-   Mon, Jan. 4
-  week: 1
+   Week of Mon, Jan. 4 (#1)
   topic: >
-    <b>Perspective, vision, and preliminaries.</b> 
+    <b>1. Perspective, vision, and preliminaries.</b> 
   videos: 
     - name: A_Feeling_For_The_Organism.mp4
       title: A feeling for the organism (04:42)
@@ -15,13 +14,30 @@
       title: Schrödinger's "What Is Life?" (22:08)
     - name: Doing_Physics_To_It.mp4
       title: Doing physics to it (20:18)
+
+- day:
+  date: > 
+   Week of Mon, Jan. 4 (#1)
+  topic: >
+    <b>2.1 Rate of cell division.</b>
+  videos:
     - name: Biological_Numeracy_Exam.mp4
       title: Biological numeracy exam (16:54)
     - name: What_Sets_Bacterial_Division_Time_Hypotheses.mp4
       title: What sets the bacterial division time? (17:15)
+    - name: Laws_Of_Cellular_Growth.mp4
+      title: Laws of cellular growth (23:01)
     - name: What_Sets_Bacterial_Division_Time_Proteomics.mp4
       title: Rate limiting hypothesis -- Proteomics (18:42)
     - name: Carbon_Transport_Limiting.mp4
       title: Rate limiting hypothesis -- Carton transport (14:15)
     - name: ATP_Synthase_Limiting.mp4
       title: Rate limiting hypothesis -- ATP synthase (13:25)
+    - name: Surface_Volume_Growth_Rates.mp4
+      title: Rate limiting hypothesis -- Surface-to-volume ratio (07:18)
+    - name: Transcription_Limiting.mp4
+      title: Rate limiting hypothesis -- Transcription (16:15)
+    - name: Ribosome_Limiting.mp4
+      title: Rate limiting hypothesis -- Ribosomes (TBA)
+    - name: What_Sets_Bacterial_Division_Time_Summary.mp4
+      title: Rate limiting hypothesis -- Summary (06:42)
