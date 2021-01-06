@@ -2,7 +2,7 @@
   date: > 
    Week of Jan. 4 (#1)
   topic: >
-    <b>1. Perspective, vision, and preliminaries.</b> 
+    <h1>1. Perspective, vision, and preliminaries.</h1> 
   videos: 
     - name: A_Feeling_For_The_Organism.mp4
       title: A feeling for the organism (04:42)
@@ -21,6 +21,7 @@
   date: > 
    Week of Jan. 4 (#1)
   topic: >
+    <h1>2. A Feeling for the Organism.</h1> 
     <b>2.1 Rate of cell division.</b>
   videos:
     - name: What_Sets_Bacterial_Division_Time_Hypotheses.mp4
