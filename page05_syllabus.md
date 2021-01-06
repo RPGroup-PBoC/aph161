@@ -16,7 +16,7 @@ The syllabus ([PDF](http://rpdata.caltech.edu/courses/aph161/2021/161_2021_sylla
 
 <table>
 <tr>
-    <th style="width:180px"><b>Date</b></th>
+    <th style="width:130px"><b>Date</b></th>
     <th><b>Topic</b></th>
 </tr>
 {% for day in site.data.syllabus %}
