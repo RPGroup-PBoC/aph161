@@ -15,14 +15,14 @@ sidebar: true
 {% for tut in site.data.tutorials %}
 
 <article class="post">
-<a class="post-thumbnail" style="background-image: url(http://rpgroup.caltech.edu/aph161/assets/img/{{tut.pic}})" href="{{site.url}}/{{site.baseurl}}/tutorials/{{tut.link}}.html"> </a>
+<a class="post-thumbnail" style="background-image: url({{site.baseurl}}/{{site.year}}/assets/img/{{tut.pic}})" href="{{site.url}}/{{site.baseurl}}/tutorials/{{tut.link}}.html"> </a>
 
 
 
 <div class="post-content">
-<b class="post-title"><a href="http://rpgroup.caltech.edu/aph161/assets/tut/{{tut.link}}.html">{{tut.title}}</a></b>
+<b class="post-title"><a href="assets/tut/{{tut.link}}.html">{{tut.title}}</a></b>
 <p> {{tut.desc}}</p>
-<p>• <a href="http://rpgroup.caltech.edu/aph161/assets/tut/{{tut.link}}.ipynb"> Jupyter Notebook (.ipynb)</a><br/></p>
+<p>• <a href="assets/tut/{{tut.link}}.ipynb"> Jupyter Notebook (.ipynb)</a><br/></p>
 {% if fig.req %}<i>Necessary Data Sets </i><br/>
 {% for ds in fig.req %}
 {% if ds.storage == 'local' %}
