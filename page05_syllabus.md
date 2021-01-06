@@ -22,7 +22,7 @@ The syllabus ([PDF](http://rpdata.caltech.edu/courses/aph161/2021/161_2021_sylla
 {% for day in site.data.syllabus %}
 <tr>
     <td>{{day.date}}  </td>
-    <td>{{day.topic}}
+    <td>{{day.topic}}<br/>
     {% if day.videos %}
     {% for v in day.videos %}
     <a href="http://rpdata.caltech.edu/courses/aph161/2021/videos/{{v.name}}">{{v.title}}</a><br/>
