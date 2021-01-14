@@ -65,3 +65,19 @@
       title: Diffusion time by the numbers (08:30)
     - name: Nucleolus_Size_Scaling.mp4
       title: Scaling of cellular structures (22:23)
+
+- day:
+  date: > 
+   Week of Jan. 11 (#2)
+  topic: >
+    <header>
+    <h3>3. From Data to Insight: Thinking Big About Data.</h3>
+    <b>3.1 On the probability distributions.</b>
+    </header> 
+  videos:
+    - url: https://www.youtube.com/watch?v=Q4_xu5y5Shw
+      title: Biological puzzles and probabilistic thinking (11:39)
+    - url: https://www.youtube.com/watch?v=DY5Xefs3qn4
+      title: Carboxysomes and binomial partitioning (19:05)
+    - url: https://www.youtube.com/watch?v=1Tc6CUuaHeQ
+      title: Ion channels and exponential waiting time distriubtion (15:22)
