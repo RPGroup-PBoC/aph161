@@ -33,19 +33,19 @@
     - url: https://www.youtube.com/watch?v=4OrEMb2-9O0
       title: Laws of cellular growth (23:01)
     - url: https://www.youtube.com/watch?v=NhYYdQQrJFo
-      title: Rate limiting hypothesis -- Proteomics (18:42)
+      title: "Rate limiting hypothesis: Proteomics (18:42)"
     - url: https://www.youtube.com/watch?v=9kTixQR05T4
-      title: Rate limiting hypothesis -- Carbon transport (14:15)
+      title: "Rate limiting hypothesis: Carbon transport (14:15)"
     - url: https://www.youtube.com/watch?v=gVNOHhnSqsU
-      title: Rate limiting hypothesis -- ATP synthase (13:25)
+      title: "Rate limiting hypothesis: ATP synthase (13:25)"
     - url: https://www.youtube.com/watch?v=deSzlVH0t2g
-      title: Rate limiting hypothesis -- Surface-to-volume ratio (07:18)
+      title: "Rate limiting hypothesis: Surface-to-volume ratio (07:18)"
     - url: https://www.youtube.com/watch?v=3oA6yyCHT5k
-      title: Rate limiting hypothesis -- Transcription (16:15)
+      title: "Rate limiting hypothesis: Transcription (16:15)"
     - url: https://www.youtube.com/watch?v=Z2OcuxAem9Y
-      title: Rate limiting hypothesis -- Ribosomes (07:21)
+      title: "Rate limiting hypothesis: Ribosomes (07:21)"
     - url: https://www.youtube.com/watch?v=dH_gMR9ZJAg
-      title: Rate limiting hypothesis -- Summary (06:42)
+      title: "Rate limiting hypothesis: Summary (06:42)"
 
 - day:
   date: > 
@@ -96,6 +96,6 @@
     </header> 
   videos:
     - url: https://www.youtube.com/watch?v=rR3gtpCU8R0
-      title: Bacterial size control -- Timer (15:23)
+      title: "Bacterial size control: Timer (15:23)"
     - url: https://www.youtube.com/watch?v=1W0nG6PzrKQ
-      title: Bacterial size control -- Adder (09:40)
+      title: "Bacterial size control: Adder (09:40)"
