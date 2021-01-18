@@ -2,15 +2,13 @@
 layout: page
 title: Tutorials
 img: datum.png # Add image post (optional)
-permalink: code
+permalink: tutorials
 sidebar: true
 ---
 
 ---
 
 {% if site.data.tutorials %}
-
-## Code
 
 {% for tut in site.data.tutorials %}
 
