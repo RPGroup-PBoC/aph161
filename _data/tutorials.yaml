@@ -17,7 +17,7 @@
   pic: tut0c.png
 
 - tut:
-  title: "Tutorial 1: Bacterial Segmentation and Curve Fitting"
-  link: t1/t1_segmentation_fitting
-  desc:  This tutorial will walk you through how to segment bacterial colonies and perform simple curve fitting.
+  title: "Tutorial 1: Forward Euler Integration Method"
+  link: t1/t1_forward_euler
+  desc:  In this tutorial, we will cover how to write a simple numerical integrator using the Forward Euler method to examine the dynamics of exponential growth.
   pic: tut1.png
