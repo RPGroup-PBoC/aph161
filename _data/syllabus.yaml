@@ -6,17 +6,17 @@
     <h3>1. Perspective, Vision, and Preliminaries.</h3>
     </header>
   videos: 
-    - name: A_Feeling_For_The_Organism.mp4
+    - url: https://www.youtube.com/watch?v=nqlvd5EEfGw
       title: A feeling for the organism (04:42)
-    - name: OrderOfMagnitudThinking.mp4
+    - url: https://www.youtube.com/watch?v=hGY3tqqaj9g
       title: Order-of-magnitude thinking (08:51)
-    - name: TransformativeTechnologies.mp4
+    - url: https://www.youtube.com/watch?v=iIkkOtMnbyI
       title: Transformative technologies (09:48)
-    - name: SchrodingerWhatIsLife.mp4
+    - url: https://www.youtube.com/watch?v=WUDNNaNcWuc
       title: Schrödinger's "What Is Life?" (22:08)
-    - name: Doing_Physics_To_It.mp4
+    - url: https://www.youtube.com/watch?v=adGVgAZf-bs
       title: Doing physics to it (20:18)
-    - name: Biological_Numeracy_Exam.mp4
+    - url: https://www.youtube.com/watch?v=Pln8ogGPBOM
       title: Biological numeracy exam (16:54)
 
 - day:
@@ -28,23 +28,23 @@
     <b>2.1 Rate of cell division.</b>
     </header> 
   videos:
-    - name: What_Sets_Bacterial_Division_Time_Hypotheses.mp4
+    - url: https://www.youtube.com/watch?v=4h50XI2aVxU
       title: What sets the bacterial division time? (17:15)
-    - name: Laws_Of_Cellular_Growth.mp4
+    - url: https://www.youtube.com/watch?v=4OrEMb2-9O0
       title: Laws of cellular growth (23:01)
-    - name: What_Sets_Bacterial_Division_Time_Proteomics.mp4
+    - url: https://www.youtube.com/watch?v=NhYYdQQrJFo
       title: Rate limiting hypothesis -- Proteomics (18:42)
-    - name: Carbon_Transport_Limiting.mp4
-      title: Rate limiting hypothesis -- Carton transport (14:15)
-    - name: ATP_Synthase_Limiting.mp4
+    - url: https://www.youtube.com/watch?v=9kTixQR05T4
+      title: Rate limiting hypothesis -- Carbon transport (14:15)
+    - url: https://www.youtube.com/watch?v=gVNOHhnSqsU
       title: Rate limiting hypothesis -- ATP synthase (13:25)
-    - name: Surface_Volume_Growth_Rates.mp4
+    - url: https://www.youtube.com/watch?v=deSzlVH0t2g
       title: Rate limiting hypothesis -- Surface-to-volume ratio (07:18)
-    - name: Transcription_Limiting.mp4
+    - url: https://www.youtube.com/watch?v=3oA6yyCHT5k
       title: Rate limiting hypothesis -- Transcription (16:15)
-    - name: Ribosome_limiting.mp4
+    - url: https://www.youtube.com/watch?v=Z2OcuxAem9Y
       title: Rate limiting hypothesis -- Ribosomes (07:21)
-    - name: What_Sets_Bacterial_Division_Time_Summary.mp4
+    - url: https://www.youtube.com/watch?v=dH_gMR9ZJAg
       title: Rate limiting hypothesis -- Summary (06:42)
 
 - day:
@@ -55,15 +55,15 @@
     <b>2.2 Scales and scaling.</b>
     </header> 
   videos:
-    - name: Interlude_On_Passion.mp4
+    - url: https://www.youtube.com/watch?v=TGjBDQekOcQ
       title: Interlude on passion (09:27)
-    - name: Semantics_On_Scale.mp4
+    - url: https://www.youtube.com/watch?v=9FPT0KLHW5o
       title: Semantics on scale (18:12)
-    - name: Scaling_Diffusion_Time_Final.mp4
+    - url: https://www.youtube.com/watch?v=1fFWp-uwBUU
       title: Scaling of diffusion time (16:46)
-    - name: Diffusion_Time_The_Numbers.mp4
+    - url: https://www.youtube.com/watch?v=KOOg0GIBoMc
       title: Diffusion time by the numbers (08:30)
-    - name: Nucleolus_Size_Scaling.mp4
+    - url: https://www.youtube.com/watch?v=nsLEhdra-Tw
       title: Scaling of cellular structures (22:23)
 
 - day:
