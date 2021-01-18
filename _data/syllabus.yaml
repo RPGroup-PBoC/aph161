@@ -89,7 +89,7 @@
 
 - day:
   date: > 
-   Week of Jan. 18 (#3)
+   Week of Jan. 11 (#2)
   topic: >
     <header>
     <b>3.2 Bacterial size control.</b>
@@ -99,3 +99,36 @@
       title: "Bacterial size control: Timer (15:23)"
     - url: https://www.youtube.com/watch?v=1W0nG6PzrKQ
       title: "Bacterial size control: Adder (09:40)"
+
+
+- day:
+  date: > 
+   Week of Jan. 18 (#3)
+  topic: >
+    <header>
+    <h3>4. The Dynamical Cell.</h3>
+    <b>4.1 Diffusion.</b>
+    </header> 
+  videos:
+    - url: https://www.youtube.com/watch?v=J4f9lGdDE8w
+      title: "Diffusion: Introduction (10:41)"
+    - url: https://www.youtube.com/watch?v=5dGGM0v1U9o
+      title: "Diffusion: Coin flips (19:14)"
+    - url: https://www.youtube.com/watch?v=1olekmCT0i4
+      title: "Diffusion: Continuum theory (22:10)"
+    - url: https://www.youtube.com/watch?v=ahoqCKxRZU0
+      title: "Diffusion: Master equation (17:45)"
+
+
+- day:
+  date: > 
+   Week of Jan. 18 (#3)
+  topic: >
+    <header>
+    <b>4.2 Dynamics beyond diffusion.</b>
+    </header> 
+  videos:
+    - url: https://www.youtube.com/watch?v=y0gOtLv_rRk
+      title: "Introduction to dynamics beyond diffusion (15:40)"
+    - url: https://www.youtube.com/watch?v=oowL6nGvb64
+      title: "Rate equations for mRNA dynamics (19:24)"
