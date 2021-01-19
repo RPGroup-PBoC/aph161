@@ -13,3 +13,8 @@
   files:
     - name: problem3.3_PBoC2.pdf
       title: Problem 3.3 of PBoC2
+
+- hwk:
+  pset: HW_3_161_2021_Final.pdf 
+  name: Homework 3
+  due_date: 1/27/2021
