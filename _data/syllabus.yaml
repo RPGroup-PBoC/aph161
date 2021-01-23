@@ -148,7 +148,18 @@
       title: "Statistical mechanics: Binding (15:32)"
     - url: https://www.youtube.com/watch?v=ZzHriJd0NMg
       title: "Statistical mechanics: Binding cooperativity (22:55)"
+
+
+- day:
+  date: > 
+   Week of Jan. 25 (#4)
+  topic: >
+    <header>
+    <b>4.2 Dynamics beyond diffusion (continued).</b>
+    </header> 
+  videos:
     - url: https://www.youtube.com/watch?v=kO15qwlJZi0
       title: "Introduction to gene networks (09:44)"
     - url: https://www.youtube.com/watch?v=qtb2ttRPYaY
       title: "Rate equations for auto-activation (15:35)"
+    
