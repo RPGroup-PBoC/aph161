@@ -23,7 +23,7 @@
   pic: tut1.png
 
 - tut:
-  title: "Tutorial 2: Binomial Paritioning"
+  title: "Tutorial 2: Binomial Partitioning"
   link: t2/binomial_partitioning
   desc:  In this tutorial, we simulate coin flips and write a function to sample from the binomial distribution.
   pic: tut2.png
