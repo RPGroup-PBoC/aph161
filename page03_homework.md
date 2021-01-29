@@ -35,10 +35,10 @@ Collaboration policy: you may discuss the homework with others, but your explana
 </td>
 {% if hwk.solns %}
 <td>
-  <a href="http://rpdata.caltech.edu/courses/aph161/protected/{{site.year}}/solutions/{{hwk.solns}}"><b class="post-title">{{'Solutions'}}</b></a> 
+  <a href="http://rpdata.caltech.edu/courses/aph161/protected/2021/solutions/{{hwk.solns}}"><b class="post-title">{{'Solutions'}}</b></a> 
   {% if hwk.code_files %}
     <br/>
-      <a href="http://rpdata.caltech.edu/courses/aph161/protected/{{site.year}}/solutions/{{hwk.code_files}}"><b class="post-title">{{'Code files (.zip)'}}</b></a>
+      <a href="http://rpdata.caltech.edu/courses/aph161/protected/2021/solutions/{{hwk.code_files}}"><b class="post-title">{{'Code files (.zip)'}}</b></a>
   {% endif  %}
 </td>
 {% else %}  
