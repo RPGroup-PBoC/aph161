@@ -85,6 +85,8 @@
       title: mRNAs and Poisson distribution (16:49)
     - url: https://www.youtube.com/watch?v=xptTCaMKk7I
       title: Interlude on Taylor series (17:50)
+    - url: https://www.youtube.com/watch?v=iDxQiRdXS5c
+      title: Every distribution has its moments (35:56)
 
 
 - day:
@@ -172,6 +174,8 @@
       title: "Rate equations for genetic oscillators (15:26)"
     - url: https://www.youtube.com/watch?v=ORP4Pd9WLyQ
       title: "Reconciling thermodynamic and statistical mechanical views of binding (11:29)"
+    - url: https://www.youtube.com/watch?v=CFc1jbiUem4
+      title: "Reconciling statistical mechanics and thermodynamics (continued) (08:49)"
     - url: https://www.youtube.com/watch?v=nVP7tlsRGf4
       title: "Rate equations for microtubule length control (19:48)"
     - url: https://www.youtube.com/watch?v=VWjZLebU08w
@@ -186,3 +190,16 @@
       title: "Double negative feedback hypothesis for the Aleutians (05:26)"
     - url: https://www.youtube.com/watch?v=DbEUNbtI4P8
       title: "On surprise in spectroscopy (05:06)"
+
+- day:
+  date: > 
+   Week of Feb. 1 (#5)
+  topic: >
+    <header>
+    <b>4.2 Dynamics beyond diffusion (continued)</b>
+    </header> 
+  videos:
+    - url: https://www.youtube.com/watch?v=uFbvFMtowjE
+      title: "MWC model (24:33)"
+    - url: https://www.youtube.com/watch?v=xRBJ0x-VsyM
+      title: "Closing the theory-experiment loop (19:32)"
