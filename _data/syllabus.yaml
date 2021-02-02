@@ -223,3 +223,18 @@
       title: "Ode to precision (17:37)"
     - url: https://www.youtube.com/watch?v=u8ak1NkzbRg
       title: "Chemical master equation for the cytoskeleton (17:15)"
+
+- day:
+  date: > 
+   Week of Feb. 1 (#5)
+  topic: >
+    <header>
+    <b>4.4 Linking time and space</b>
+    </header> 
+  videos:
+    - url: https://www.youtube.com/watch?v=NpnUSjHx2mM
+      title: "On positional information (12:22)"
+    - url: https://www.youtube.com/watch?v=zTJJm7RNzhg
+      title: "Position information: Reaction-diffusion equation (19:50)"
+    - url: https://www.youtube.com/watch?v=yBasfKv88aY
+      title: "Position information: The French flag model (11:12)"
