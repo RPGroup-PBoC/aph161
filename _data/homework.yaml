@@ -24,3 +24,12 @@
       title: PBoC3 Chapter 4 (draft)
     - name: Rosenfeld2005.pdf
       title: Rosenfeld, <i>et al.</i> (Science 2005)
+
+
+- hwk:
+  pset: HW_4_161_2021_Final.pdf
+  name: Homework 4
+  due_date: 2/10/2021
+  files:
+    - name: Collins2000.pdf
+      title: Gardner, Cantor & Collins (Nature 2000)
