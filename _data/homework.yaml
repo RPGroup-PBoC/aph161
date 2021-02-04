@@ -31,5 +31,7 @@
   name: Homework 4
   due_date: 2/10/2021
   files:
+    - name: PBoC3_Stories_Diffusion_Feb_2021.pdf
+      title: PBoC3 Chapter 5 (draft)
     - name: Collins2000.pdf
       title: Gardner, Cantor & Collins (Nature 2000)
