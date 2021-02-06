@@ -27,3 +27,11 @@
   link: t2/binomial_partitioning
   desc:  In this tutorial, we simulate coin flips and write a function to sample from the binomial distribution.
   pic: tut2.png
+
+- tut:
+  title: "Tutorial 3: Stochastic Simulation of a Random Walker"
+  link: t3/t03_stochastic_simulations
+  desc:  In this tutorial, we simulate random walkers under different scenarios.
+  pic: tut3.png
+
+
