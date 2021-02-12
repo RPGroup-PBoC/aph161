@@ -257,6 +257,7 @@
   topic: >
     <header>
     <h3>5. Life as Defiance</h3>
+    <b>5.1 Defiance of diffusion</b>
     </header> 
   videos:
     - url: https://www.youtube.com/watch?v=TFKyrr7lyLs
@@ -277,3 +278,22 @@
       title: "Dissipation required to maintain a concentration gradient (17:43)"
     - url: https://www.youtube.com/watch?v=_5miM3Z4vV8
       title: "Drawing energy from a concentration gradient (18:12)"
+    - url: https://www.youtube.com/watch?v=09LoIUeyNCw
+      title: "Cost of forming the Bicoid gradient (19:07)"
+
+
+- day:
+  date: > 
+   Week of Feb. 8 (#6)
+  topic: >
+    <header>
+    <h3>5. Life as Defiance</h3>
+    <b>5.2 Adaptation as defiance of Boltzmann and Langmuir</b>
+    </header> 
+  videos:
+    - url: https://www.youtube.com/watch?v=l5arxCHhlRE
+      title: "Introduction to adaptation: Chemotaxis (15:42)"
+    - url: https://www.youtube.com/watch?v=um8XA58I3pE
+      title: "MWC model of chemoreceptors (22:54)"
+    - url: https://www.youtube.com/watch?v=_V-jse7eShI
+      title: "Sameness (18:28)"
