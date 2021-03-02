@@ -352,7 +352,7 @@
 
 - day:
   date: > 
-   Week of Feb. 29 (#9)
+   Week of Mar. 1 (#9)
   topic: >
     <header>
     </header> 
@@ -365,3 +365,7 @@
       title: "Dimensionless Navier-Stokes, Reynolds number (12:42)"
     - url: https://www.youtube.com/watch?v=rKm6pIqkRd0
       title: "Introduction to cytoplasmic streaming in Chara (08:18)"
+    - url: https://www.youtube.com/watch?v=c5C7iUVEjLw
+      title: "Stokes equations for the cytoplasmic streaming in Chara (20:17)"
+    - url: https://www.youtube.com/watch?v=k3H6tmTM_h0
+      title: "Viscoelasticity in tissues (20:29)"
