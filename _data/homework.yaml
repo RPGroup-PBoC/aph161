@@ -52,8 +52,12 @@
     - name: Bailey1976.pdf
       title: Bailey (Science 1976)
 
-
 - hwk:
   pset: HW_6_161_2021_Final.pdf
   name: Homework 6
   due_date: 3/3/2021
+
+- hwk:
+  pset: HW_7_161_2021_Final.pdf
+  name: Homework 7
+  due_date: 3/12/2021
