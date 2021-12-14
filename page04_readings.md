@@ -21,3 +21,4 @@ specifically mention in class.
 
 {% for pub in site.data.pubs %}
 <li> <a style="text-decoration: none;" href="{{pub.url}}">{{pub.vidname}}</a></li>
+{% endfor %}
