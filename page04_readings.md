@@ -19,6 +19,5 @@ specifically mention in class.
 
 ## Supplementary Sources
 
-{% for pub in site.data.pubs %}
-<li> <a style="text-decoration: none;" href="{{pub.url}}">{{pub.vidname}}</a></li>
-{% endfor %}
+<li> <a style="text-decoration: none;" href="https://www.youtube.com/channel/UCnYEe45w6F4G3AEYCyNHMWg/videos">Vignettes on PBoC (Rob Phillips, APh161 2020)</a></li>
+
