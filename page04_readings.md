@@ -20,4 +20,4 @@ specifically mention in class.
 ## Supplementary Sources
 
 {% for pub in site.data.pubs %}
-<li> <a style="text-decoration: none;" href="{{pub.url}}">{{pub.vidname}}</a><br/></li>
+<li> <a style="text-decoration: none;" href="{{pub.url}}">{{pub.vidname}}</a></li>
