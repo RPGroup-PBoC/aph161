@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Readings and Supplementary Material
+title: Readings
 img: readings.jpg # Add image post (optional)
 permalink: readings 
 sidebar: true
