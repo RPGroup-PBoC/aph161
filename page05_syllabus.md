@@ -18,6 +18,7 @@ The syllabus ([PDF](http://rpdata.caltech.edu/courses/aph161/2021/161_2021_sylla
 <tr>
     <th style="width:130px"><b>Date</b></th>
     <th><b>Topic</b></th>
+    <th><b>Slides</b></th>
 </tr>
 {% for day in site.data.syllabus %}
 <tr>
@@ -32,6 +33,8 @@ The syllabus ([PDF](http://rpdata.caltech.edu/courses/aph161/2021/161_2021_sylla
     {%endif %}
     {%endfor%}
     {%endif %}
+    </td>
+    <td><a href="http://rpdata.caltech.edu/courses/aph161/protected/2022/slides/{{day.slide}}">Slides</a>
     </td> 
 
   <!-- {% if day.slide %} 
