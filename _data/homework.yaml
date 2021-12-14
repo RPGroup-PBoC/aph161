@@ -1,65 +1,65 @@
 - hwk:
-  pset: HW_1_161_2021_Final.pdf 
+#  pset: HW_1_161_2021_Final.pdf 
   name: Homework 1
-  due_date: 1/13/2021
-  files:
-    - name: PBoC3_Stories_Chap2.pdf
-      title: PBoC3 Chapter 2 (draft)
-  solns: HW_1_161_2021_Solutions.pdf
+  due_date: 1/12/2022
+#  files:
+#    - name: PBoC3_Stories_Chap2.pdf
+#      title: PBoC3 Chapter 2 (draft)
+#  solns: HW_1_161_2021_Solutions.pdf
 
 - hwk:
-  pset: HW_2_161_2021_Final.pdf 
+#  pset: HW_2_161_2021_Final.pdf 
   name: Homework 2
-  due_date: 1/20/2021
-  files:
-    - name: problem3.3_PBoC2.pdf
-      title: Problem 3.3 of PBoC2
-  solns: HW_2_161_2021_Solutions.pdf
+#  due_date: 1/20/2021
+#  files:
+#    - name: problem3.3_PBoC2.pdf
+#      title: Problem 3.3 of PBoC2
+#  solns: HW_2_161_2021_Solutions.pdf
 
 - hwk:
-  pset: HW_3_161_2021_Final.pdf 
+#  pset: HW_3_161_2021_Final.pdf 
   name: Homework 3
-  due_date: 1/27/2021
-  files:
-    - name: PBoC3_Stories_chap4_2021.pdf
-      title: PBoC3 Chapter 4 (draft)
-    - name: Rosenfeld2005.pdf
-      title: Rosenfeld, <i>et al.</i> (Science 2005)
-  solns: HW_3_161_2021_Solutions.pdf
-  code_files: HW_3_161_2021_Solutions_Code.zip
+#  due_date: 1/27/2021
+#  files:
+#    - name: PBoC3_Stories_chap4_2021.pdf
+#      title: PBoC3 Chapter 4 (draft)
+#    - name: Rosenfeld2005.pdf
+#      title: Rosenfeld, <i>et al.</i> (Science 2005)
+#  solns: HW_3_161_2021_Solutions.pdf
+#  code_files: HW_3_161_2021_Solutions_Code.zip
 
 
 - hwk:
-  pset: HW_4_161_2021_Final.pdf
+#  pset: HW_4_161_2021_Final.pdf
   name: Homework 4
-  due_date: 2/10/2021
-  files:
-    - name: PBoC3_Stories_Diffusion_Feb_2021.pdf
-      title: PBoC3 Chapter 5 (draft)
-    - name: Collins2000.pdf
-      title: Gardner, Cantor & Collins (Nature 2000)
-  solns: HW_4_161_2021_Solutions.pdf
-  code_files: HW_4_161_2021_Solutions_Code.zip
+#  due_date: 2/10/2021
+#  files:
+#    - name: PBoC3_Stories_Diffusion_Feb_2021.pdf
+#      title: PBoC3 Chapter 5 (draft)
+#    - name: Collins2000.pdf
+#      title: Gardner, Cantor & Collins (Nature 2000)
+#  solns: HW_4_161_2021_Solutions.pdf
+#  code_files: HW_4_161_2021_Solutions_Code.zip
 
 
 - hwk:
-  pset: HW_5_161_2021_Final.pdf
+#  pset: HW_5_161_2021_Final.pdf
   name: Homework 5
-  due_date: 2/24/2021
-  files:
-    - name: Hasty2008.pdf
-      title: Stricker, Cookson, Bennett, Mather, Tsimring & Hasty (Nature 2008)
-    - name: Bailey1976.pdf
-      title: Bailey (Science 1976)
+#  due_date: 2/24/2021
+#  files:
+#    - name: Hasty2008.pdf
+#      title: Stricker, Cookson, Bennett, Mather, Tsimring & Hasty (Nature 2008)
+#    - name: Bailey1976.pdf
+#      title: Bailey (Science 1976)
 
 - hwk:
-  pset: HW_6_161_2021_Final.pdf
+#  pset: HW_6_161_2021_Final.pdf
   name: Homework 6
-  due_date: 3/3/2021
+#  due_date: 3/3/2021
 
 - hwk:
-  pset: HW_7_161_2021_Final.pdf
+#  pset: HW_7_161_2021_Final.pdf
   name: Homework 7
-  due_date: 3/12/2021
-  solns: HW_7_161_2021_Solutions.pdf
-  code_files: HW_7_161_2021_Solutions_Associated.zip
+#  due_date: 3/12/2021
+#  solns: HW_7_161_2021_Solutions.pdf
+#  code_files: HW_7_161_2021_Solutions_Associated.zip
