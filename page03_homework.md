@@ -29,16 +29,16 @@ Collaboration policy: you may discuss the homework with others, but your explana
 <td> {{hwk.due_date}} </td>
 <td> {% if hwk.files %}
 	{% for f in hwk.files %}
-    <a href="http://rpdata.caltech.edu/courses/aph161/protected/2021/hw_files/{{f.name}}">{{f.title}}</a><br/>
+    <a href="http://rpdata.caltech.edu/courses/aph161/protected/2022/hw_files/{{f.name}}">{{f.title}}</a><br/>
     {%endfor%}
 	{%endif %}
 </td>
 {% if hwk.solns %}
 <td>
-  <a href="http://rpdata.caltech.edu/courses/aph161/protected/2021/solutions/{{hwk.solns}}"><b class="post-title">{{'Solutions'}}</b></a> 
+  <a href="http://rpdata.caltech.edu/courses/aph161/protected/2022/solutions/{{hwk.solns}}"><b class="post-title">{{'Solutions'}}</b></a> 
   {% if hwk.code_files %}
     <br/>
-      <a href="http://rpdata.caltech.edu/courses/aph161/protected/2021/solutions/{{hwk.code_files}}"><b class="post-title">{{'Associated files (.zip)'}}</b></a>
+      <a href="http://rpdata.caltech.edu/courses/aph161/protected/2022/solutions/{{hwk.code_files}}"><b class="post-title">{{'Associated files (.zip)'}}</b></a>
   {% endif  %}
 </td>
 {% else %}  
