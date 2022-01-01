@@ -6,6 +6,9 @@
     <h3>1. Perspective, Vision, and Preliminaries</h3>
     </header>
   videos:
+    - url: https://www.youtube.com/watch?v=z9l-sgUhC_s
+      title: A feeling for the organism (13:10)
+      description: This vignette introduces the goal of the course, nothing less than to develop a quantitative feeling for the nature of the living world.
     - url: https://www.youtube.com/watch?v=-dvhttEc_rA
       title: I wonder... (37:04)
       description: This vignette focuses on the importance of asking questions in science as much as in finding answers. One route to those questions is by tapping into our sense of wonder.
@@ -18,9 +21,6 @@
     - url: https://www.youtube.com/watch?v=rP4bKX3ks5E
       title: Biological numeracy exam (answers) (23:33)
       description: This vignette gives the answers to the biological numeracy exam and showcases the order-of-magnitude-thinking spirit that we consider a critical pillar of physical biology.
-    - url: https://www.youtube.com/watch?v=z9l-sgUhC_s
-      title: A feeling for the organism (13:10)
-      description: This vignette introduces the goal of the course, nothing less than to develop a quantitative feeling for the nature of the living world.
 
 - day:
   date: > 
