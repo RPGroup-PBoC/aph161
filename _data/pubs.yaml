@@ -6,4 +6,8 @@
   year: 1960
   vol_iss: 13(1)
   desc: This article gives an expansive view of the power of mathematics in studying the natural world.
+- pub:
+  url: http://book.bionumbers.org/
+  title: Cell biology by the numbers
+  desc: This book is a free and online version that attempts to provide a view of modern biology through the prism of biological numeracy. This book can be a great resource for many of the order-of-magnitude questions we will face in our approach to biology.
 
