@@ -26,15 +26,17 @@
   date: > 
    Wed. Jan. 5
   topic: >
-#    <header>
-#    <h3>2. A Feeling for the Organism</h3>
+    <header>
+    <h3>2. Scales and Scaling in Physical Biology</h3>
 #    <b>2.1 Rate of cell division</b>
-#    </header> 
-#  videos:
-#    - url: https://www.youtube.com/watch?v=4h50XI2aVxU
-#      title: What sets the bacterial division time? (17:15)
-#    - url: https://www.youtube.com/watch?v=4OrEMb2-9O0
-#      title: Laws of cellular growth (23:01)
+    </header> 
+  videos:
+    - url: https://www.youtube.com/watch?v=DeievEzAlKU
+      title: Semantics on scale (18:13)
+      description: This vignette describes two ways in which we will use the word scale. First, in the spirit of "what sets the scale of X?" and second, how some quantity of interest, such as the diffusion time, scales with some other quantity such as the length over which that scaling occurs.
+    - url: https://www.youtube.com/watch?v=MlxadiuIRgk
+      title: Scaling of diffusion time (16:47)
+      description: This vignette develops one of the most important rules of thumb in all of science - how we estimate the time that diffusive processes will take.
 #    - url: https://www.youtube.com/watch?v=NhYYdQQrJFo
 #      title: "Rate limiting hypothesis: Proteomics (18:42)"
 #    - url: https://www.youtube.com/watch?v=9kTixQR05T4
