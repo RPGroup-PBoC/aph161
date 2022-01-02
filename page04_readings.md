@@ -14,10 +14,10 @@ As the course progresses, we will post papers we find interesting or that we
 specifically mention in class. 
 
 {% for pub in site.data.pubs %}
+{% if  pub.fname %}
 <li> <a style="text-decoration: none;" href="http://rpdata.caltech.edu/courses/aph161/protected/2022/papers/{{pub.fname}}"> <b>{{pub.title}}</b> by {{pub.authors}} in {{pub.journal}}, {{pub.year}}, {{pub.vol_iss}}.</a> {{pub.desc}}</li>
+{% else %}
+<li> <a style="text-decoration: none;" href="{{pub.url}}"> <b>{{pub.title}}</b>.</a> {{pub.desc}}</li>
+{% endif %}
 {% endfor %}
-
-## Supplementary Sources
-
-<li> <a style="text-decoration: none;" href="https://www.youtube.com/channel/UCnYEe45w6F4G3AEYCyNHMWg/videos">Vignettes on PBoC (Rob Phillips, APh161 2020)</a></li>
 
