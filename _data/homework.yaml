@@ -2,9 +2,9 @@
   pset: HW_1_161_2022_Final.pdf 
   name: Homework 1
   due_date: 1/12/2022
-#  files:
-#    - name: PBoC3_Stories_Chap2.pdf
-#      title: PBoC3 Chapter 2 (draft)
+  files:
+    - name: PBOC3_chap2_Scaling_2022_01_04.pdf
+      title: PBoC3 Chapter 2 (draft, pgs. 147-151 removed)
 #  solns: HW_1_161_2021_Solutions.pdf
 
 - hwk:
