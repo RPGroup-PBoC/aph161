@@ -37,7 +37,8 @@
       title: Scaling of diffusion time (16:47)
       description: This vignette develops one of the most important rules of thumb in all of science - how we estimate the time that diffusive processes will take.
     - url: https://www.youtube.com/watch?v=lltMsmF0yGo&t=1s
-      title: "Nucleolar scaling (23:44)"
+      title: "Nucleolar scaling (23:45)"
+      description: This vignette starts with an introduction to scaling relations between organelle size and cell size and then turns to the study of how the size of the nucleolus scales with nuclear size in the developing C. elegans embryo.
 #    - url: https://www.youtube.com/watch?v=9kTixQR05T4
 #      title: "Rate limiting hypothesis: Carbon transport (14:15)"
 #    - url: https://www.youtube.com/watch?v=gVNOHhnSqsU
