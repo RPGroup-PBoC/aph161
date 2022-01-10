@@ -37,39 +37,38 @@
       title: Scaling of diffusion time (16:47)
       description: This vignette develops one of the most important rules of thumb in all of science - how we estimate the time that diffusive processes will take.
     - url: https://www.youtube.com/watch?v=lltMsmF0yGo&t=1s
-      title: "Nucleolar scaling (23:45)"
+      title: Nucleolar scaling (23:45)
       description: This vignette starts with an introduction to scaling relations between organelle size and cell size and then turns to the study of how the size of the nucleolus scales with nuclear size in the developing C. elegans embryo.
-#    - url: https://www.youtube.com/watch?v=9kTixQR05T4
-#      title: "Rate limiting hypothesis: Carbon transport (14:15)"
-#    - url: https://www.youtube.com/watch?v=gVNOHhnSqsU
-#      title: "Rate limiting hypothesis: ATP synthase (13:25)"
-#    - url: https://www.youtube.com/watch?v=deSzlVH0t2g
-#      title: "Rate limiting hypothesis: Surface-to-volume ratio (07:18)"
-#    - url: https://www.youtube.com/watch?v=3oA6yyCHT5k
-#      title: "Rate limiting hypothesis: Transcription (16:15)"
-#    - url: https://www.youtube.com/watch?v=Z2OcuxAem9Y
-#      title: "Rate limiting hypothesis: Ribosomes (07:21)"
-#    - url: https://www.youtube.com/watch?v=dH_gMR9ZJAg
-#      title: "Rate limiting hypothesis: Summary (06:42)"
+    - url: https://www.youtube.com/watch?v=OMzGJWAyBqI
+      title: Mitochondrial surface volume (18:58)
+      description: This vignette explores the idea that when cells get too large, the plasma membrane is no longer large enough to contain enough ATP synthases to provide enouch ATP for the cellular interior.
 
 - day:
   date: > 
    Mon. Jan. 10
   topic: >
-#    <header>
-#    <b>2.2 Scales and scaling</b>
-#    </header> 
-#  videos:
-#    - url: https://www.youtube.com/watch?v=TGjBDQekOcQ
-#      title: Interlude on passion (09:27)
-#    - url: https://www.youtube.com/watch?v=9FPT0KLHW5o
-#      title: Semantics on scale (18:12)
-#    - url: https://www.youtube.com/watch?v=1fFWp-uwBUU
-#      title: Scaling of diffusion time (16:46)
-#    - url: https://www.youtube.com/watch?v=KOOg0GIBoMc
-#      title: Diffusion time by the numbers (08:30)
-#    - url: https://www.youtube.com/watch?v=nsLEhdra-Tw
-#      title: Scaling of cellular structures (22:23)
+    <header>
+    <h3>3. Physics of Animal Migration, Dispersal, and Herding</h3>
+    </header> 
+  videos:
+    - url: https://www.youtube.com/watch?v=4reTaFAFQv0
+      title: Bar tailed godwit migration (18:50)
+      description: This vignette talks about the physical challenges faced by bar tailed godwit birds in their 10,000 km nonstop migratory journey between Alaska and New Zealand.
+    - url: https://www.youtube.com/watch?v=jwr-yvNK0wY
+      title: Frogs sao tome puzzle (18:50)
+      description: This vignette introduces one of the fun challenges of island biogeography: how do amphibians end up on oceanic islands.
+    - url: https://www.youtube.com/watch?v=15EVWhAO0ok
+      title: Ocean currents dispersal (13:43)
+      description: This vignette explores the hypothesis that amphibians landed on the islands in the Gulf of Guinea by being transported by ocean currents.
+    - url: https://www.youtube.com/watch?v=-9FuvlJKZWw
+      title: Physics of frogs in saltwater (14:08)
+      description: This vignette describes the physics of water transport that frogs suffer when placed in saltwater.
+    - url: https://www.youtube.com/watch?v=gJxX0yW-q6Y
+      title: Interlude on entropy (21:58)
+      description: Here we make our first quantitative acquaintance with the all important concept of entropy and the corresponding variational statement of equilibrium.
+    - url: https://www.youtube.com/watch?v=uA8Xhj3cSwI
+      title: Osmotic pressure (14:11)
+      description: When there is a concentration difference across a membrane such as a frog's skin, water will flow as a result of osmotic pressure. Here we use simple free energy arguments to explain osmotic pressure.
 
 - day:
   date: > 
