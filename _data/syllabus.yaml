@@ -69,6 +69,9 @@
     - url: https://www.youtube.com/watch?v=uA8Xhj3cSwI
       title: Osmotic pressure (14:11)
       description: When there is a concentration difference across a membrane such as a frog's skin, water will flow as a result of osmotic pressure. Here we use simple free energy arguments to explain osmotic pressure.
+    - url: https://www.youtube.com/watch?v=ThHDJ_sOHxU
+      title: Linear transport laws (20:35)
+      description: This vignette discusses one of the most powerful tools in the physicochemical arsenal for working out the dynamics of how systems approach the maximum entropy (equilibrium) state. Here our focus is on the law of water transport due to osmotic pressure, a key player in the response of frogs to being in salt water.
 
 - day:
   date: > 
