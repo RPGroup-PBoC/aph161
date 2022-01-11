@@ -72,6 +72,9 @@
     - url: https://www.youtube.com/watch?v=ThHDJ_sOHxU
       title: Linear transport laws (20:35)
       description: This vignette discusses one of the most powerful tools in the physicochemical arsenal for working out the dynamics of how systems approach the maximum entropy (equilibrium) state. Here our focus is on the law of water transport due to osmotic pressure, a key player in the response of frogs to being in salt water.
+    - url: https://www.youtube.com/watch?v=1RHIiKgDwxo
+      title: Frog osmotic shock (15:36)
+      description: This vignette writes the differential equation for water flow out of an osmotically shocked frog and uses that to estimate the time for the frog to dry out.
 
 - day:
   date: > 
