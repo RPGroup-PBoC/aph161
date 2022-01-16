@@ -90,22 +90,22 @@
       title: Origins of field theory (27:11)
       description: This vignette introduces the idea of field theory, with roots that date back to the early days of mechanics. After a historical introduction, we examine the nature of field theories of matter.
     - url: https://www.youtube.com/watch?v=Goxld0ulV3w
-      title: Toner-Tu theory intro (16:17)
-      description: This brief vignette shows how Toner and Tu developed a field theoretic description of animal motions culminating in the famed Toner-Tu partial differential equations.
+      title: Toner Tu theory intro (16:17)
+      description: This brief vignette shows how Toner and Tu developed a field theoretic description of animal motions culminating in the famed Toner Tu partial differential equations.
   topic2: >
      <header>
      <h3>4. Diffusive Dynamics</h3>
      </header>
-  videos2:
-    - url2: https://www.youtube.com/watch?v=J4f9lGdDE8w
-      title2: Diffusion: introduction (10:42)
-      desciption2: This vignette introduces diffusion as molecular and cell biology's dynamical null hypothesis. As we will see in subsequent vignettes, like many of the key ideas of physics, there are many different ways to view this subject.
-    - url2: https://www.youtube.com/watch?v=5dGGM0v1U9o
-      title2: Diffusion: coin flips (19:15)
-      description2: One view of diffusion is as the dynamics that result when independent agents "choose" what they are going to do next by flipping coins. While this observation seems contrived and trivial, it is actually very deep.
-    - url2: https://www.youtube.com/watch?v=1olekmCT0i4
-      title2: Diffusion: continuum theory (22:11)
-      description2: As with Toner-Tu theory, we can write a field theory for diffusion that culminates in the famed partial differential equation known as the diffusion equation. This vignette describes that theory.
+  videos2: 
+    - urla: https://www.youtube.com/watch?v=J4f9lGdDE8w
+      titlea: Diffusion: introduction (10:42)
+      desciptiona: This vignette introduces diffusion as molecular and cell biology's dynamical null hypothesis. As we will see in subsequent vignettes, like many of the key ideas of physics, there are many different ways to view this subject.
+    - urla: https://www.youtube.com/watch?v=5dGGM0v1U9o
+      titlea: Diffusion: coin flips (19:15)
+      descriptiona: One view of diffusion is as the dynamics that result when independent agents "choose" what they are going to do next by flipping coins. While this observation seems contrived and trivial, it is actually very deep.
+    - urla: https://www.youtube.com/watch?v=1olekmCT0i4
+      titlea: Diffusion: continuum theory (22:11)
+      descriptiona: As with Toner Tu theory, we can write a field theory for diffusion that culminates in the famed partial differential equation known as the diffusion equation. This vignette describes that theory.
     - url2: https://www.youtube.com/watch?v=ahoqCKxRZU0
       title2: Diffusion: master equation (17:46)
       description2: Another very powerful paradigm we will use over and over is that of probabilistic reasoning. Dynamics of probability distributions can be written in the language of master equations and this vignette explains that approach.
