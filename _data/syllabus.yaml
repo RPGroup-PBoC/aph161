@@ -79,34 +79,36 @@
 
 - day:
   date: > 
-   Wed Jan. 17
-  topic1: >
-#    <header>
-#    <h3>3. From Data to Insight: Thinking Big About Data</h3>
-#    <b>3.1 On the probability distributions</b>
-#    </header> 
+   Mon. Jan. 17 <br>
+   Wed. Jan. 19
+  topic1: > 
   videos1:
     - url: https://www.youtube.com/watch?v=URQM_DyIo3M
       title: Collective animal motions (8:31)
       description: This vignette observes that animals of all kinds participate in organized collective motions, providing a "many-body" challenge to the theory of active matter.
+    - url: https://www.youtube.com/watch?v=to49YtDGQZo
+      title: Origins of field theory (27:11)
+      description: This vignette introduces the idea of field theory, with roots that date back to the early days of mechanics. After a historical introduction, we examine the nature of field theories of matter.
+    - url: https://www.youtube.com/watch?v=Goxld0ulV3w
+      title: Toner-Tu theory intro (16:17)
+      description: This brief vignette shows how Toner and Tu developed a field theoretic description of animal motions culminating in the famed Toner-Tu partial differential equations.
   topic2: >
      <header>
      <h3>4. Diffusive Dynamics</h3>
      </header>
-
-- day:
-  date: > 
-   Wed. Jan. 19
-  topic: >
-#    <header>
-#    <b>3.2 Bacterial size control</b>
-#    </header> 
-#  videos:
-#    - url: https://www.youtube.com/watch?v=rR3gtpCU8R0
-#      title: "Bacterial size control: Timer (15:23)"
-#    - url: https://www.youtube.com/watch?v=1W0nG6PzrKQ
-#      title: "Bacterial size control: Adder (09:40)"
-
+  videos2:
+    - url: https://www.youtube.com/watch?v=J4f9lGdDE8w
+      title: Diffusion: introduction (10:42)
+      desciption: This vignette introduces diffusion as molecular and cell biology's dynamical null hypothesis. As we will see in subsequent vignettes, like many of the key ideas of physics, there are many different ways to view this subject.
+    - url: https://www.youtube.com/watch?v=5dGGM0v1U9o
+      title: Diffusion: coin flips (19:15)
+      description: One view of diffusion is as the dynamics that result when independent agents "choose" what they are going to do next by flipping coins. While this observation seems contrived and trivial, it is actually very deep.
+    - url: https://www.youtube.com/watch?v=1olekmCT0i4
+      title: Diffusion: continuum theory (22:11)
+      description: As with Toner-Tu theory, we can write a field theory for diffusion that culminates in the famed partial differential equation known as the diffusion equation. This vignette describes that theory.
+    - url: https://www.youtube.com/watch?v=ahoqCKxRZU0
+      title: Diffusion: master equation (17:46)
+      description: Another very powerful paradigm we will use over and over is that of probabilistic reasoning. Dynamics of probability distributions can be written in the language of master equations and this vignette explains that approach.
 
 - day:
   date: > 
