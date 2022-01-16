@@ -1,11 +1,11 @@
 - day:
   date: > 
    Mon. Jan. 3
-  topic: >    
+  topic1: >    
     <header>
     <h3>1. Perspective, Vision, and Preliminaries</h3>
     </header>
-  videos:
+  videos1:
     - url: https://www.youtube.com/watch?v=z9l-sgUhC_s
       title: A feeling for the organism (13:10)
       description: This vignette introduces the goal of the course, nothing less than to develop a quantitative feeling for the nature of the living world.
@@ -25,11 +25,11 @@
 - day:
   date: > 
    Wed. Jan. 5
-  topic: >
+  topic1: >
     <header>
     <h3>2. Scales and Scaling in Physical Biology</h3>
     </header> 
-  videos:
+  videos1:
     - url: https://www.youtube.com/watch?v=DeievEzAlKU
       title: Semantics on scale (18:13)
       description: This vignette describes two ways in which we will use the word scale. First, in the spirit of "what sets the scale of X?" and second, how some quantity of interest, such as the diffusion time, scales with some other quantity such as the length over which that scaling occurs.
@@ -47,11 +47,11 @@
   date: > 
    Mon. Jan. 10 <br>
    Wed. Jan. 12
-  topic: >
+  topic1: >
     <header>
     <h3>3. Physics of Animal Migration, Dispersal, and Herding</h3>
     </header> 
-  videos:
+  videos1:
     - url: https://www.youtube.com/watch?v=4reTaFAFQv0
       title: Bar tailed godwit migration (18:50)
       description: This vignette talks about the physical challenges faced by bar tailed godwit birds in their 10,000 km nonstop migratory journey between Alaska and New Zealand.
@@ -85,7 +85,7 @@
 #    <h3>3. From Data to Insight: Thinking Big About Data</h3>
 #    <b>3.1 On the probability distributions</b>
 #    </header> 
-  videos:
+  videos1:
     - url: https://www.youtube.com/watch?v=URQM_DyIo3M
       title: Collective animal motions (8:31)
       description: This vignette observes that animals of all kinds participate in organized collective motions, providing a "many-body" challenge to the theory of active matter.

@@ -23,8 +23,8 @@ The syllabus ([PDF](http://rpdata.caltech.edu/courses/aph161/2021/161_2021_sylla
 <tr>
     <td>{{day.date}}  </td>
     <td>{{day.topic1}}
-    {% if day.videos %}
-    {% for v in day.videos %}
+    {% if day.videos1 %}
+    {% for v in day.videos1 %}
     {% if v.name %}
     <a href="http://rpdata.caltech.edu/courses/aph161/2021/videos/{{v.name}}">{{v.title}}</a><br/>
     {% else %} 
@@ -34,8 +34,8 @@ The syllabus ([PDF](http://rpdata.caltech.edu/courses/aph161/2021/161_2021_sylla
     {%endfor%}
     {%endif %}
     {{day.topic2}}
-    {% if day.videos %}
-    {% for v in day.videos %}
+    {% if day.videos2 %}
+    {% for v in day.videos2 %}
     {% if v.name %}
     <a href="http://rpdata.caltech.edu/courses/aph161/2021/videos/{{v.name}}">{>
     {% else %}
