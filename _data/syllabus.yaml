@@ -80,7 +80,7 @@
 - day:
   date: > 
    Wed Jan. 17
-  topic: >
+  topic1: >
 #    <header>
 #    <h3>3. From Data to Insight: Thinking Big About Data</h3>
 #    <b>3.1 On the probability distributions</b>
@@ -89,8 +89,8 @@
     - url: https://www.youtube.com/watch?v=URQM_DyIo3M
       title: Collective animal motions (8:31)
       description: This vignette observes that animals of all kinds participate in organized collective motions, providing a "many-body" challenge to the theory of active matter.
-  topic: >
-     <header:
+  topic2: >
+     <header>
      <h3>4. Diffusive Dynamics</h3>
      </header>
 
