@@ -106,9 +106,9 @@
     - urla: https://www.youtube.com/watch?v=1olekmCT0i4
       titlea: Diffusion - continuum theory (22:11)
       descriptiona: As with Toner Tu theory, we can write a field theory for diffusion that culminates in the famed partial differential equation known as the diffusion equation. This vignette describes that theory.
-    - url2: https://www.youtube.com/watch?v=ahoqCKxRZU0
-      title2: Diffusion - master equation (17:46)
-      description2: Another very powerful paradigm we will use over and over is that of probabilistic reasoning. Dynamics of probability distributions can be written in the language of master equations and this vignette explains that approach.
+    - urla: https://www.youtube.com/watch?v=ahoqCKxRZU0
+      titlea: Diffusion - master equation (17:46)
+      descriptiona: Another very powerful paradigm we will use over and over is that of probabilistic reasoning. Dynamics of probability distributions can be written in the language of master equations and this vignette explains that approach.
 
 - day:
   date: > 
