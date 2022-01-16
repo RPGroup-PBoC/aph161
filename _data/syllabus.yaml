@@ -45,7 +45,8 @@
 
 - day:
   date: > 
-   Mon. Jan. 10
+   Mon. Jan. 10 <br>
+   Wed. Jan. 12
   topic: >
     <header>
     <h3>3. Physics of Animal Migration, Dispersal, and Herding</h3>
@@ -78,7 +79,7 @@
 
 - day:
   date: > 
-   Wed Jan. 12
+   Wed Jan. 17
   topic: >
 #    <header>
 #    <h3>3. From Data to Insight: Thinking Big About Data</h3>
