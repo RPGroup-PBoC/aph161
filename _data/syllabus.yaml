@@ -85,20 +85,14 @@
 #    <h3>3. From Data to Insight: Thinking Big About Data</h3>
 #    <b>3.1 On the probability distributions</b>
 #    </header> 
-#  videos:
-#    - url: https://www.youtube.com/watch?v=Q4_xu5y5Shw
-#      title: Biological puzzles and probabilistic thinking (11:39)
-#    - url: https://www.youtube.com/watch?v=DY5Xefs3qn4
-#      title: Carboxysomes and binomial partitioning (19:05)
-#    - url: https://www.youtube.com/watch?v=1Tc6CUuaHeQ
-#      title: Ion channels and exponential waiting time distriubtion (15:22)
-#    - url: https://www.youtube.com/watch?v=zIp1LhAMa5Q
-#      title: mRNAs and Poisson distribution (16:49)
-#    - url: https://www.youtube.com/watch?v=xptTCaMKk7I
-#      title: Interlude on Taylor series (17:50)
-#    - url: https://www.youtube.com/watch?v=iDxQiRdXS5c
-#      title: Every distribution has its moments (35:56)
-
+  videos:
+    - url: https://www.youtube.com/watch?v=URQM_DyIo3M
+      title: Collective animal motions (8:31)
+      description: This vignette observes that animals of all kinds participate in organized collective motions, providing a "many-body" challenge to the theory of active matter.
+  topic: >
+     <header:
+     <h3>4. Diffusive Dynamics</h3>
+     </header>
 
 - day:
   date: > 
