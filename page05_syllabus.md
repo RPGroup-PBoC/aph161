@@ -39,8 +39,8 @@ The syllabus ([PDF](http://rpdata.caltech.edu/courses/aph161/2021/161_2021_sylla
     {% if v.name %}
     <a href="http://rpdata.caltech.edu/courses/aph161/2021/videos/{{v.name}}">{>
     {% else %}
-    <a href="{{v.url}}">{{v.title}}</a><br/>
-    {{v.description}}<br/>
+    <a href="{{v.url2}}">{{v.title2}}</a><br/>
+    {{v.description2}}<br/>
     {%endif %}
     {%endfor%}
     {%endif %}
