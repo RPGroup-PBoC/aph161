@@ -112,52 +112,17 @@
 
 - day:
   date: > 
-   Mon. Jan. 24
-  topic: >
+   Mon. Jan. 24<br>
+   Wed. Jan. 26
+  topic1: >
 #    <header>
 #    <h3>4. The Dynamical Cell</h3>
 #    <b>4.1 Diffusion</b>
 #    </header> 
-#  videos:
-#    - url: https://www.youtube.com/watch?v=J4f9lGdDE8w
-#      title: "Diffusion: Introduction (10:41)"
-#    - url: https://www.youtube.com/watch?v=5dGGM0v1U9o
-#      title: "Diffusion: Coin flips (19:14)"
-#    - url: https://www.youtube.com/watch?v=1olekmCT0i4
-#      title: "Diffusion: Continuum theory (22:10)"
-#    - url: https://www.youtube.com/watch?v=ahoqCKxRZU0
-#      title: "Diffusion: Master equation (17:45)"
-
-
-- day:
-  date: > 
-   Wed. Jan. 26
-  topic: >
-#    <header>
-#    <b>4.2 Dynamics beyond diffusion</b>
-#    </header> 
-#  videos:
-#    - url: https://www.youtube.com/watch?v=y0gOtLv_rRk
-#      title: "Introduction to dynamics beyond diffusion (15:40)"
-#    - url: https://www.youtube.com/watch?v=oowL6nGvb64
-#      title: "Rate equations for mRNA dynamics (19:24)"
-#    - url: https://www.youtube.com/watch?v=cSDZv1r87h0
-#      title: "Dynamics of ligand-receptor binding (20:07)"
-#    - url: https://www.youtube.com/watch?v=CThdO0XIU1Y
-#      title: "Dynamics of enzymes (12:12)"
-#    - url: https://www.youtube.com/watch?v=Cc6fZnpS9Lk
-#      title: "On the literature (10:40)"
-#    - url: https://www.youtube.com/watch?v=ZmKsi6pCprk
-#      title: "Borges and you (11:34)"
-#    - url: https://www.youtube.com/watch?v=0z4_duhqi-c
-#      title: "Rate equations for compartmentalized enzymes (15:07)"
-#    - url: https://www.youtube.com/watch?v=bs-ODmE3A9I
-#      title: "Statistical mechanics: Introduction (18:55)"
-#    - url: https://www.youtube.com/watch?v=LVVQAXzocU8
-#      title: "Statistical mechanics: Binding (15:32)"
-#    - url: https://www.youtube.com/watch?v=ZzHriJd0NMg
-#      title: "Statistical mechanics: Binding cooperativity (22:55)"
-
+  videos1:
+    - url: https://www.youtube.com/watch?v=b90lCVjJ4jY
+      title: I wonder - pattern formation (17:22)
+      description: This vignette introduces the idea of biological pattern as a prelude to the mathematical exploration of these phenomena using the twin concepts of positional information and the Turing instability.
 
 - day:
   date: > 
