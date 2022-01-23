@@ -115,10 +115,9 @@
    Mon. Jan. 24<br>
    Wed. Jan. 26
   topic1: >
-#    <header>
-#    <h3>4. The Dynamical Cell</h3>
-#    <b>4.1 Diffusion</b>
-#    </header> 
+    <header>
+    <h3>5. Shape, Space and Pattern in Biology</h3>
+    </header> 
   videos1:
     - url: https://www.youtube.com/watch?v=b90lCVjJ4jY
       title: I wonder - pattern formation (17:22)
