@@ -122,6 +122,21 @@
     - url: https://www.youtube.com/watch?v=b90lCVjJ4jY
       title: I wonder - pattern formation (17:22)
       description: This vignette introduces the idea of biological pattern as a prelude to the mathematical exploration of these phenomena using the twin concepts of positional information and the Turing instability.
+    - url: https://youtu.be/wr1UTL7MixA
+      title: Continuum theory protocol (20:05)
+      description: This vignette describes how continuum field theories can be used in a myriad of different settings including for pattern formation.
+    - url: https://youtu.be/k3lRI0M7mV8
+      title: Paradigms for patterning (11:55)
+      description: This vignette describes two distinct classes of models for thinking about the emergence of patterns - the concept of positional information and the self-organization properties of Turing patterns.
+    - url: https://youtu.be/NpnUSjHx2mM
+      title: On positional information (12:22)
+      description: This vignette gives a more detailed introduction to the Wolpert idea of positional information.
+    - url: https://youtu.be/zTJJm7RNzhg
+      title: Positional information - reaction-diffusion equation (19:50)
+      description: This vignette shows how to use the continuum theory protocol to derive a beautiful generalization of the diffusion equation that accounts for protein degradation as well.
+    - url: https://youtu.be/yBasfKv88aY
+      title: Positional inforamtion - the French flag model (11:12)
+      description: This vignette is a very concrete case study of reaction-diffusion equations as they pertain to anterior-posterior patterning in the fly. Note that part of the fun of taking this model seriously is that we see that it falls quantitatively short of accounting for the experimental data, raising the need to consider further refinements.
 
 - day:
   date: > 
