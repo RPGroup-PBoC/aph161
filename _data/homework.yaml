@@ -20,9 +20,9 @@
   pset: HW_3_161_2022_Final.pdf 
   name: Homework 3
   due_date: 1/26/2022
-#  files:
-#    - name: PBoC3_Stories_chap4_2021.pdf
-#      title: PBoC3 Chapter 4 (draft)
+  files:
+    - name: PBoC3_Stories_diffusion_chap5.pdf
+      title: PBoC3 Chapter 5 (draft)
 #    - name: Rosenfeld2005.pdf
 #      title: Rosenfeld, <i>et al.</i> (Science 2005)
 #  solns: HW_3_161_2021_Solutions.pdf
