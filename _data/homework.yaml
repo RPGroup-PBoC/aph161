@@ -23,8 +23,8 @@
   files:
     - name: PBoC3_Stories_diffusion_chap5.pdf
       title: PBoC3 Chapter 5 (draft)
-#    - name: Rosenfeld2005.pdf
-#      title: Rosenfeld, <i>et al.</i> (Science 2005)
+    - name: WeberBrangwynne2015.pdf
+      title: Weber & Brangwynne (Current Biology 2015)
 #  solns: HW_3_161_2021_Solutions.pdf
 #  code_files: HW_3_161_2021_Solutions_Code.zip
 
