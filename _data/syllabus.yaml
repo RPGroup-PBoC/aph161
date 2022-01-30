@@ -140,56 +140,25 @@
 
 - day:
   date: > 
-   Mon. Jan. 31
-  topic: >
-#    <header>
-#    <b>4.2 Dynamics beyond diffusion (continued)</b>
-#    </header> 
-#  videos:
-#    - url: https://www.youtube.com/watch?v=kO15qwlJZi0
-#      title: "Introduction to gene networks (09:44)"
-#    - url: https://www.youtube.com/watch?v=qtb2ttRPYaY
-#      title: "Rate equations for auto-activation (15:35)"
-#    - url: https://www.youtube.com/watch?v=bBd0i2DcE9E
-#      title: "Rate equations for the mutual repression switch (20:11)"
-#    - url: https://www.youtube.com/watch?v=gNA30zEVEX4
-#      title: "Mutual repression switch: Fixed points (13:07)"
-#    - url: https://www.youtube.com/watch?v=SmZmt3qi2-M
-#      title: "Stability analysis for the mutual repression switch (25:00)"
-#    - url: https://www.youtube.com/watch?v=4cMGrVag9n4
-#      title: "Rate equations for genetic oscillators (15:26)"
-#    - url: https://www.youtube.com/watch?v=ORP4Pd9WLyQ
-#      title: "Reconciling thermodynamic and statistical mechanical views of binding (11:29)"
-#    - url: https://www.youtube.com/watch?v=CFc1jbiUem4
-#      title: "Reconciling statistical mechanics and thermodynamics (continued) (08:49)"
-#    - url: https://www.youtube.com/watch?v=nVP7tlsRGf4
-#      title: "Rate equations for microtubule length control (19:48)"
-#    - url: https://www.youtube.com/watch?v=VWjZLebU08w
-#      title: "Why I am so boring (10:30)"
-#    - url: https://www.youtube.com/watch?v=38wXj9CMSp4
-#      title: "Rate equations for pandemics (20:15)"
-#    - url: https://www.youtube.com/watch?v=p04VZwHxPqw&
-#      title: "Interlude on surprise (14:14)"
-#    - url: https://www.youtube.com/watch?v=g87C4Pu6N8A
-#      title: "Rate equations for the double negative regulation (13:10)"
-#    - url: https://www.youtube.com/watch?v=BvCWJEfUOW4
-#      title: "Double negative feedback hypothesis for the Aleutians (05:26)"
-#    - url: https://www.youtube.com/watch?v=DbEUNbtI4P8
-#      title: "On surprise in spectroscopy (05:06)"
-
-- day:
-  date: > 
+   Mon. Jan. 31 <br>
    Wed. Feb. 2
   topic: >
 #    <header>
 #    <b>4.2 Dynamics beyond diffusion (continued)</b>
 #    </header> 
-#  videos:
-#    - url: https://www.youtube.com/watch?v=uFbvFMtowjE
-#      title: "MWC model (24:33)"
-#    - url: https://www.youtube.com/watch?v=xRBJ0x-VsyM
-#      title: "Closing the theory-experiment loop (19:32)"
-
+  videos:
+    - url: https://youtu.be/SH4zpYyE5cc
+      title: "Meeting Turing (19:07)"
+      description: This vignette gives an introduction to the Turing mindset that complements the positional information perspective from the previous few vignettes.
+    - url: https://youtu.be/CQ3ARzbOZuE
+      title: "In the steps of Turing (31:11)"
+      description: This vignette works through the technical details of the simplest example of Turing's ideas, a two-cell system.
+    - url: https://youtu.be/8FnGW1cekkU
+      title: "Turing ring of cells (25:02)"
+      description: This vignette shows how to generalize the results of the previous vignette to a large collection of cells with periodic boundary conditions.
+    - url: https://youtu.be/IG3oqzz1Tms
+      title: "Turing - Closing the loop (18:40)"
+      description: This vignette describes some very recent biological examples of the Turing instability.
 
 - day:
   date: > 
