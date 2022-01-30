@@ -142,11 +142,11 @@
   date: > 
    Mon. Jan. 31 <br>
    Wed. Feb. 2
-  topic: >
+  topic1: >
 #    <header>
 #    <b>4.2 Dynamics beyond diffusion (continued)</b>
 #    </header> 
-  videos:
+  videos1:
     - url: https://youtu.be/SH4zpYyE5cc
       title: "Meeting Turing (19:07)"
       description: This vignette gives an introduction to the Turing mindset that complements the positional information perspective from the previous few vignettes.
