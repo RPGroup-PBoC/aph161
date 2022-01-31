@@ -161,18 +161,18 @@
       description: This vignette describes some very recent biological examples of the Turing instability.
   topic2: >
     <header>
-    <b>6. Life as defiance</b>
+    <h3>6. Life as defiance</h3>
     </header>
   videos2:
-    - url: https://youtu.be/oqWTeEADpUM
-      title: Statistical mechanics protocol
-      description: This vignette gives a formal but superficial introduction to statistical mechanics. We need this introduction here because these tools will help us compute entropic forces when DNA is pulled on by optical tweezers.
-    - url: https://youtu.be/kC-I4H-EJXc
-      title: Entropic elasticity DNA
-      description: This vignette shows how we can use statistical mechanics to carefully understand our first concrete example of an entropic force, namely, the way that DNA resists being stretched.
-    - url: https://youtu.be/xptTCaMKk7I
-      title: Interlude on Taylor series
-      description: This vignette provides a powerful and important mathematical tool that we will use repeatedly in a huge variety of different situations. In the current context it will serve us in understanding how Hooke's law emerges in DNA pulling experiments.
+    - urla: https://youtu.be/oqWTeEADpUM
+      titlea: Statistical mechanics protocol
+      descriptiona: This vignette gives a formal but superficial introduction to statistical mechanics. We need this introduction here because these tools will help us compute entropic forces when DNA is pulled on by optical tweezers.
+    - urla: https://youtu.be/kC-I4H-EJXc
+      titlea: Entropic elasticity DNA
+      descriptiona: This vignette shows how we can use statistical mechanics to carefully understand our first concrete example of an entropic force, namely, the way that DNA resists being stretched.
+    - urla: https://youtu.be/xptTCaMKk7I
+      titlea: Interlude on Taylor series
+      descriptiona: This vignette provides a powerful and important mathematical tool that we will use repeatedly in a huge variety of different situations. In the current context it will serve us in understanding how Hooke's law emerges in DNA pulling experiments.
 
 
 - day:
