@@ -164,14 +164,17 @@
     <h3>6. Life as defiance</h3>
     </header>
   videos2:
+    - urla: https://www.youtube.com/watch?v=TFKyrr7lyLs
+      title: Life as defiance - Introduction (29:28)
+      descriptiona: This vignette introduces us to the direction of natural processes implied by the 2nd law of thermodynamics and the way that living organisms get around that stricture by consuming energy.
     - urla: https://youtu.be/oqWTeEADpUM
-      titlea: Statistical mechanics protocol
+      titlea: Statistical mechanics protocol (18:49)
       descriptiona: This vignette gives a formal but superficial introduction to statistical mechanics. We need this introduction here because these tools will help us compute entropic forces when DNA is pulled on by optical tweezers.
     - urla: https://youtu.be/kC-I4H-EJXc
-      titlea: Entropic elasticity DNA
+      titlea: Entropic elasticity DNA (44:53)
       descriptiona: This vignette shows how we can use statistical mechanics to carefully understand our first concrete example of an entropic force, namely, the way that DNA resists being stretched.
     - urla: https://youtu.be/xptTCaMKk7I
-      titlea: Interlude on Taylor series
+      titlea: Interlude on Taylor series (17:51)
       descriptiona: This vignette provides a powerful and important mathematical tool that we will use repeatedly in a huge variety of different situations. In the current context it will serve us in understanding how Hooke's law emerges in DNA pulling experiments.
 
 
