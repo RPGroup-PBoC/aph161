@@ -390,10 +390,10 @@
 #      title: "Course accomplishments (17:14)"
 
 - extra:
-  url: https://youtu.be/9P5aJ5GVpP8
-  title: Molecules as documents of evolutionary history (16:07)
-  desc: This vignette describes the use of DNA sequences as a tool for studying the history of life.
+  exurl: https://youtu.be/9P5aJ5GVpP8
+  extitle: Molecules as documents of evolutionary history (16:07)
+  exdesc: This vignette describes the use of DNA sequences as a tool for studying the history of life.
 - extra:
-  url: https://youtu.be/TnbTHRpbdBo
-  title: Genomics without genomes - Hemoglobin (17:00)
-  desc: This vignette shows how early workers were able to compare "sequences" of hemoglobin even before sequencing was a thing. As a result, the hemoglobin protein was used as a document of evolutionary history.
+  exurl: https://youtu.be/TnbTHRpbdBo
+  extitle: Genomics without genomes - Hemoglobin (17:00)
+  exdesc: This vignette shows how early workers were able to compare "sequences" of hemoglobin even before sequencing was a thing. As a result, the hemoglobin protein was used as a document of evolutionary history.
