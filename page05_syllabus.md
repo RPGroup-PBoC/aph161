@@ -66,6 +66,6 @@ The syllabus ([PDF](http://rpdata.caltech.edu/courses/aph161/2021/161_2021_sylla
 
 ## Overflow Vignettes
 
-{% for extra in site.data.syllabus %}
+{% if extra in site.data.syllabus %}
 <li> <a style="text-decoration: none;" href="{{extra.exurl}}"><b>{{extra.extitle}}</b>.</a> {{extra.exdesc}}</li>
-{% endfor %}
+{% endif %}
