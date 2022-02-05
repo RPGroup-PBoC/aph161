@@ -180,6 +180,9 @@
     - urla: https://youtu.be/oqWTeEADpUM
       titlea: Statistical mechanics protocol (18:49)
       descriptiona: This vignette gives a formal but superficial introduction to statistical mechanics. We need this introduction here because these tools will help us compute entropic forces when DNA is pulled on by optical tweezers.
+    - urla: https://youtu.be/EuxdiKmXu4Y
+      titlea: Stat mech ion channel (20:03)
+      descriptiona: This vignette uses the statistical mechanical protocol to solve a real world problem of great biological interest, namely, what is the probability that an ion channel will be open as a function of some driving force such as voltage, ligand concentration or membrane tension.
     - urla: https://youtu.be/kC-I4H-EJXc
       titlea: Entropic elasticity DNA (44:53)
       descriptiona: This vignette shows how we can use statistical mechanics to carefully understand our first concrete example of an entropic force, namely, the way that DNA resists being stretched.
