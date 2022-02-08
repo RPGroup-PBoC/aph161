@@ -46,11 +46,21 @@
   pset: HW_5_161_2022_Final.pdf
   name: Homework 5
   due_date: 2/09/2022
-#  files:
-#    - name: Hasty2008.pdf
-#      title: Stricker, Cookson, Bennett, Mather, Tsimring & Hasty (Nature 2008)
-#    - name: Bailey1976.pdf
-#      title: Bailey (Science 1976)
+  files:
+    - name: Gregor2007.pdf
+      title: Gregor (Cell 2007)
+    - name: Drocco2011.pdf
+      title: Drocco (Biophysical Journal 2011)
+    - name: AbuArish2010.pdf
+      title: Abu-Arish (Biophysical Journal 2010)
+    - name: Driever_Nusslein-Volhard1988.pdf
+      title: Driever & Nusslein-Volhard (Cell 1988)
+    - name: Liu2013.pdf
+      title: Liu (PNAS 2013)
+    - name: Liu2013Data.xlsx
+      title: Liu (2013) data
+    - name: Bailey1976Science.pdf
+      title: Bailey (Science 1976)
 
 - hwk:
 #  pset: HW_6_161_2021_Final.pdf
