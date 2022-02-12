@@ -193,82 +193,23 @@
 
 - day:
   date: > 
-   Mon. Feb. 7
-  topic: >
-#    <header>
-#    <b>4.3 Chemical master equation approaches to dynamics</b>
-#    </header> 
-#  videos:
-#    - url: https://www.youtube.com/watch?v=e3kcIHNzuIw
-#      title: "Chemical master equation for the constitutive promoter (15:15)"
-#    - url: https://www.youtube.com/watch?v=WGvfYCe9tec
-#      title: "Chemical master equation for the two-state model of transcription, part 1 (18:24)"
-#    - url: https://www.youtube.com/watch?v=jh1FR9w3lwM
-#      title: "Chemical master equation for the two-state model of transcription, part 2 (25:26)"
-#    - url: https://www.youtube.com/watch?v=ezNhsaUtOFU
-#      title: "Ode to precision (17:37)"
-#    - url: https://www.youtube.com/watch?v=u8ak1NkzbRg
-#      title: "Chemical master equation for the cytoskeleton (17:15)"
-
-- day:
-  date: > 
-   Wed. Feb. 9
-  topic: >
-#    <header>
-#    <b>4.4 Linking time and space</b>
-#    </header> 
-#  videos:
-#    - url: https://www.youtube.com/watch?v=NpnUSjHx2mM
-#      title: "On positional information (12:22)"
-#    - url: https://www.youtube.com/watch?v=zTJJm7RNzhg
-#      title: "Position information: Reaction-diffusion equation (19:50)"
-#    - url: https://www.youtube.com/watch?v=yBasfKv88aY
-#      title: "Position information: The French flag model (11:12)"
-#    - url: https://www.youtube.com/watch?v=SH4zpYyE5cc
-#      title: "Meeting Turing (19:07)"
-#    - url: https://www.youtube.com/watch?v=CQ3ARzbOZuE
-#      title: "In the steps of Turing (31:11)"
-#    - url: https://www.youtube.com/watch?v=8FnGW1cekkU
-#      title: "Turing ring of cells (25:02)"
-#    - url: https://www.youtube.com/watch?v=hhCK5pJHAw4
-#      title: "Continuous version of Turing (36:41)"
-#    - url: https://www.youtube.com/watch?v=IG3oqzz1Tms
-#      title: "Turing: Closing the loop (18:39)"
-
-
-
-- day:
-  date: > 
-   Mon. Feb. 14
+   Mon. Feb. 14 <br>
+   Wed. Feb. 16
   topic: >
 #    <header>
 #    <h3>5. Life as Defiance</h3>
 #    <b>5.1 Defiance of diffusion</b>
 #    </header> 
-#  videos:
-#    - url: https://www.youtube.com/watch?v=TFKyrr7lyLs
-#      title: "Life as defiance: Introduction (29:29)"
-#    - url: https://www.youtube.com/watch?v=VaD1VAet7o0
-#      title: "Calculus of equilibrium (18:31)"
-#    - url: https://www.youtube.com/watch?v=GVT1BIV7kfQ
-#      title: "Thermal energy scale (16:21)"
-#    - url: https://www.youtube.com/watch?v=rDcWXGLopZ0
-#      title: "Boltzmann as equilibrium recast (09:19)"
-#    - url: https://www.youtube.com/watch?v=qdlThQROdFE
-#      title: "Linear departure from equilibrium (12:54)"
-#    - url: https://www.youtube.com/watch?v=pQfmYfi65qM
-#      title: "Phenomenology not a dirty word (13:41)"
-#    - url: https://www.youtube.com/watch?v=dbJZhlGobsk
-#      title: "Cost of transport up a gradient (12:55)"
-#    - url: https://www.youtube.com/watch?v=M2pN6QqK3rw
-#      title: "Dissipation required to maintain a concentration gradient (17:43)"
-#    - url: https://www.youtube.com/watch?v=_5miM3Z4vV8
-#      title: "Drawing energy from a concentration gradient (18:12)"
-#    - url: https://www.youtube.com/watch?v=fcYuF8KNAOg
-#      title: "Proton motive force (09:50)"
-#    - url: https://www.youtube.com/watch?v=09LoIUeyNCw
-#      title: "Cost of forming the Bicoid gradient (19:07)"
-
+  videos1:
+    - url: https://youtu.be/g2e17hpBG1g
+      title: Biological batteries (15:21)
+      description: This vignette is a very important overview of the way that universal energy currencies are provided in living cells, similar to how the batteries and the electrical sockets we use in our daily lives are available for a myriad of different tasks.
+    - url: https://youtu.be/dbJZhlGobsk
+      title: Cost of transport up a gradient (12:55)
+      description: One of the most important classes of biological battery is concentration gradients. This vignette shows how to compute the entropic contribution to the total free energy of such gradient batteries.
+    - url: https://youtu.be/fcYuF8KNAOg
+      title: Proton motive force (9:51)
+      description: A variety of molecular machines are run by a biological battery known as the proton motive force that has both an entropic contribution and a contribution due to the electrical potential differences across the cell membrane. This vignette gives an elementary description of that biological battery.
 
 - day:
   date: > 
