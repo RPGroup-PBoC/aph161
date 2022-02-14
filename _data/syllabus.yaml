@@ -8,6 +8,21 @@
   extitle: Genomics without genomes - Hemoglobin (17:00)
   exdesc: This vignette shows how early workers were able to compare "sequences" of hemoglobin even before sequences was a thing. As a result, the hemoglobin protein was used as a document of evolutionary history.
 
+- extra:
+  exurl: https://youtu.be/tHHtVzr3FYU
+  extitle: Science is not a smorgasbord (24:44)
+  exdesc: This vignette argues that science is an approach to generating a self-consistent, actionable, and predictive body of knowledge about the world around us. We do not get to pick and choose which parts of science suit our moods or philosophies.
+
+- extra:
+  exurl: https://youtu.be/uwLkf6LSGMw
+  extitle: Science is not a smorgasbord - Germ theory disease (14:28)
+  exdesc: This vignette briefly describes the science behind the modern germ theory of disease arose.
+
+- extra:
+  exurl: https://youtu.be/XZugEn7QOPQ
+  extitle: Viruses as infectious agents (10:50)
+  exdesc: This vignette gives a very brief introduction to how we came to know of viruses and how the tobacco mosaic virus taught many important lessons.
+
 - day:
   date: > 
    Mon. Jan. 3
@@ -210,7 +225,12 @@
     - url: https://youtu.be/fcYuF8KNAOg
       title: Proton motive force (9:51)
       description: A variety of molecular machines are run by a biological battery known as the proton motive force that has both an entropic contribution and a contribution due to the electrical potential differences across the cell membrane. This vignette gives an elementary description of that biological battery.
-
+    - url: https://youtu.be/xSw-YUAEZbI
+      title: The great Gibbs and the chemical potential (24:16)
+      description: This vignette describes one of the most important ideas in statistical physics, the chemical potential. We will use this tool for thinking about out of equilibrium dynamics.
+    - url: https://youtu.be/ohG2Fab8e64
+      title: The relaxation to equilibrium (21:31)
+      description: This vignette describes the all important topic of how we compute the dynamics of systems as they relax towards equilibrium. We show how the classic linear transport laws are a small perturbation limit of the more general free energy relaxation.
 
 - day:
   date: > 
