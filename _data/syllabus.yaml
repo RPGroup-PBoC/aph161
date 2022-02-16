@@ -228,9 +228,18 @@
     - url: https://youtu.be/xSw-YUAEZbI
       title: The great Gibbs and the chemical potential (24:16)
       description: This vignette describes one of the most important ideas in statistical physics, the chemical potential. We will use this tool for thinking about out of equilibrium dynamics.
+    - url: https://youtu.be/OZmx8BKyC8Q
+      title: Binding via chemical potential (14:12)
+      description: This vignette gives an example of how to use the chemical potential in the context of the statistical mechanics protocol to describe ligand-receptor binding. Note the huge simplification of using Gibbs' brilliant approach compared to the explicit treatment of the solution. One of the single most powerful ideas in all of physics is that of formally and rigorously integrating degrees of freedom out of our treatment.
     - url: https://youtu.be/ohG2Fab8e64
       title: The relaxation to equilibrium (21:31)
       description: This vignette describes the all important topic of how we compute the dynamics of systems as they relax towards equilibrium. We show how the classic linear transport laws are a small perturbation limit of the more general free energy relaxation.
+    - url: https://youtu.be/bhQc14lkfG0
+      title: Allostery no physicists allowed (8:54)
+      description: This vignette is a very brief introduction to the subject of allostery. A noted biologist said that they would not even talk to physicists thinking of working in biology if they could not define allostery. The famed Monod-Wyman-Changeux (MWC) model can be thought of as biology's version of the Ising model.
+    - url: https://youtu.be/vbuUlVf1lt0
+      title: Cashing in concentration gradients symporters (28:17)
+      description: This super fun vignette is based upon a beautiful paper of Daniel Zukerman that shows how we can think about the out of equilibrium dynamics using simple ideas about free energy as a driving force. I think of this as a very deep example of how biological fuel can be demystified through careful statistical mechanical reasoning.
 
 - day:
   date: > 
