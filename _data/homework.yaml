@@ -45,7 +45,7 @@
 - hwk:
   pset: HW_5_161_2022_Final.pdf
   name: Homework 5
-  due_date: 2/09/2022
+  due_date: 2/14/2022
   files:
     - name: Gregor2007.pdf
       title: Gregor (Cell 2007)
@@ -63,9 +63,9 @@
       title: Bailey (Science 1976)
 
 - hwk:
-#  pset: HW_6_161_2021_Final.pdf
+  pset: HW_6_161_2022.pdf
   name: Homework 6
-#  due_date: 3/3/2021
+  due_date: 2/23/2022
 
 - hwk:
 #  pset: HW_7_161_2021_Final.pdf
