@@ -240,19 +240,25 @@
     - url: https://youtu.be/vbuUlVf1lt0
       title: Cashing in concentration gradients symporters (28:17)
       description: This super fun vignette is based upon a beautiful paper of Daniel Zukerman that shows how we can think about the out of equilibrium dynamics using simple ideas about free energy as a driving force. I think of this as a very deep example of how biological fuel can be demystified through careful statistical mechanical reasoning.
+    - url: https://youtu.be/2cm-8ZRkWt8
+      title: Fidelity as defiance (20:00)
+      description: This vignette asks the question of how accurate the processes of biological polymerization such as transcription and translation can be if their recognition mechanism is strictly based on equilibrium binding.
+    - url: https://youtu.be/bX9rz1SVWpQ
+      title: Kinetic proofreading (18:28)
+      description: This vignette explores one of the great conceptual ideas of modern molecular biology, namely, kinetic proofreading. We consider a highly schematized view of the phenomenon that illustrates the tradeoffs between speed, energy consumption, and fidelity.
 
 - day:
   date: > 
+   Mon. Feb. 21 <br>
    Wed. Feb. 23
-  topic: >
-#    <header>
-#    <b>5.3 Fidelity as defiance of Boltzmann</b>
-#    </header> 
-#  videos:
-#    - url: https://www.youtube.com/watch?v=2cm-8ZRkWt8
-#      title: "Fidelity as defiance (20:00)"
-#    - url: https://www.youtube.com/watch?v=bX9rz1SVWpQ
-#      title: "Kinetic proofreading (18:27)"
+  topic1: >
+    <header>
+    <b>7. Signaling, Regulation, Feedback, and Control</b>
+    </header> 
+  videos1:
+    - url: https://www.youtube.com/watch?v=uFbvFMtowjE&t=453s&ab_channel=PhysicalBiologyoftheCell%28CaltechBEAPh161%29
+      title: MWC model (24:33)
+      description: This vignette describes one of the most important models in biology, the Monod-Wyman-Changeux model of allostery. We will only scratch the surface of this important topic.
 
 - day:
   date: > 
