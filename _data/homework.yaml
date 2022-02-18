@@ -36,10 +36,8 @@
   files:
     - name: Rosenfeld.pdf
       title: Rosenfeld et al (Science 2005)
-#    - name: Collins2000.pdf
-#      title: Gardner, Cantor & Collins (Nature 2000)
-#  solns: HW_4_161_2021_Solutions.pdf
-#  code_files: HW_4_161_2021_Solutions_Code.zip
+  solns: PBoC_Winter2022_HW4_Solutions.pdf
+  code_files: hw4.html
 
 
 - hwk:
