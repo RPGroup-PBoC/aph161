@@ -59,11 +59,12 @@
       title: Liu (2013) data
     - name: Bailey1976Science.pdf
       title: Bailey (Science 1976)
+  solns: PBoC_Winter2022_HW5_Solutions.pdf
 
 - hwk:
   pset: HW_6_161_2022.pdf
   name: Homework 6
-  due_date: 2/23/2022
+  due_date: 2/28/2022
 
 - hwk:
 #  pset: HW_7_161_2021_Final.pdf
