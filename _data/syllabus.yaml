@@ -240,6 +240,18 @@
     - url: https://youtu.be/vbuUlVf1lt0
       title: Cashing in concentration gradients symporters (28:17)
       description: This super fun vignette is based upon a beautiful paper of Daniel Zukerman that shows how we can think about the out of equilibrium dynamics using simple ideas about free energy as a driving force. I think of this as a very deep example of how biological fuel can be demystified through careful statistical mechanical reasoning.
+    - url: https://youtu.be/IyofGaENESk
+      title: "Dynamics of symporter (23:35)"
+      description: This vignette continues with the exemplary problem of the symporter to describe the process from a chemical kinetics perspective that explicitly shows how the reaction rates violate detailed balance.
+    - url: https://youtu.be/_3Agn-_nNIA
+      title: "ATP battery (07:01)"
+      description: This vignette describes yet another one of the motive forces that power the cellular economy. Nonequilibrium steady states are often maintained through coupling some reaction of interest to the hydrolysis of ATP.
+    - url: https://youtu.be/TDVWyw-BJC8
+      title: ATP biological battery - phosphorylation-dephosphorylation dynamic>
+      description: This vignette uses the ubiquitous phosphorylation-dephosphorylation nonequilibrium steady state as a way to understand how the ATP biological battery drives molecular reactions of importance to biological phenomena.
+    - url: https://youtu.be/qy4DO39yRFI
+      title: Phosphorylation energetics (50:37)
+      description: This vignette now examines the free energy cost of running the phosphorylation-dephosphorylation cycle and gives an example of the much broader subject of how the ATP Biological Battery operates.
     - url: https://youtu.be/2cm-8ZRkWt8
       title: Fidelity as defiance (20:00)
       description: This vignette asks the question of how accurate the processes of biological polymerization such as transcription and translation can be if their recognition mechanism is strictly based on equilibrium binding.
@@ -268,20 +280,8 @@
 #    <header>
 #    <h3>6. Theory of Living Matter</h3>
 #    </header> 
-  videos1:
-    - url: https://youtu.be/IyofGaENESk
-      title: "Dynamics of symporter (23:35)"
-      description: This vignette continues with the exemplary problem of the sympoter to describe the process from a chemical kinetics perspective that explicitly shows how the reaction rates violate detailed balance.
-    - url: https://youtu.be/_3Agn-_nNIA
-      title: "ATP battery (07:01)"
-      description: This vignette describes yet another one of the motive forces that power the cellular economy. Nonequilibrium steady states are often maintained through coupling some reaction of interest to the hydrolysis of ATP.
-    - url: https://youtu.be/TDVWyw-BJC8
-      title: ATP biological battery - phosphorylation-dephosphorylation dynamics (24:03)
-      description: This vignette uses the ubiquitous phosphorylation-dephosphorylation nonequilibrium steady state as a way to understand how the ATP biological battery drives molecular reactions of importance to biological phenomena.
-    - url: https://youtu.be/qy4DO39yRFI
-      title: Phosphorylation energetics (50:37)
-      description: This vignette now examines the free energy cost of running the phosphorylation-dephosphorylation cycle and gives an example of the much broader subject of how the ATP Biological Battery operates.
-
+#  videos1:
+    
 - day:
   date: > 
    Mon. Mar. 7 <br>
