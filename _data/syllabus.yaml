@@ -262,40 +262,31 @@
 
 - day:
   date: > 
-   Mon. Feb. 28
-  topic: >
+   Mon. Feb. 28 <br>
+   Wed. Mar. 2
+  topic1: >
 #    <header>
 #    <h3>6. Theory of Living Matter</h3>
 #    </header> 
-#  videos:
-#    - url: https://www.youtube.com/watch?v=5ujXKxBbYkI
-#      title: "Introduction to active matter (19:32)"
-#    - url: https://www.youtube.com/watch?v=RGfPz8R22yU
-#      title: "What is field theory (22:56)"
+  videos1:
+    - url: https://youtu.be/IyofGaENESk
+      title: "Dynamics of symporter (23:35)"
+      description: This vignette continues with the exemplary problem of the sympoter to describe the process from a chemical kinetics perspective that explicitly shows how the reaction rates violate detailed balance.
+    - url: https://youtu.be/_3Agn-_nNIA
+      title: "ATP battery (07:01)"
+      description: This vignette describes yet another one of the motive forces that power the cellular economy. Nonequilibrium steady states are often maintained through coupling some reaction of interest to the hydrolysis of ATP.
+    - url: https://youtu.be/TDVWyw-BJC8
+      title: ATP biological battery - phosphorylation-dephosphorylation dynamics (24:03)
+      description: This vignette uses the ubiquitous phosphorylation-dephosphorylation nonequilibrium steady state as a way to understand how the ATP biological battery drives molecular reactions of importance to biological phenomena.
+    - url: https://youtu.be/qy4DO39yRFI
+      title: Phosphorylation energetics (50:37)
+      description: This vignette now examines the free energy cost of running the phosphorylation-dephosphorylation cycle and gives an example of the much broader subject of how the ATP Biological Battery operates.
 
 - day:
   date: > 
-   Wed. Mar. 2
-  topic: >
-#    <header>
-#    </header> 
-#  videos:
-#    - url: https://www.youtube.com/watch?v=E5G31TwVL1g
-#      title: "Introduction to elasticity (15:19)"
-#    - url: https://www.youtube.com/watch?v=cKRTx6X4MUc
-#      title: "Stress and strain (32:10)"
-#    - url: https://www.youtube.com/watch?v=rszWE42JU9A
-#      title: "Elasticity of beams (31:14)"
-#    - url: https://www.youtube.com/watch?v=ETPX0CGSZwE
-#      title: "Gut folding (16:51)"
-#    - url: https://www.youtube.com/watch?v=_Urw-sSCYo4
-#      title: "Force balance in fluids (24:15)"
-
-
-- day:
-  date: > 
-   Mon. Mar. 7
-  topic: >
+   Mon. Mar. 7 <br>
+   Wed. Mar. 9
+  topic1: >
 #    <header>
 #    </header> 
 #  videos:
@@ -318,10 +309,10 @@
 
 
 
-- day:
-  date: > 
-   Wed. Mar. 9
-  topic: >
+#- day:
+#  date: > 
+#   Wed. Mar. 9
+#  topic: >
 #    <header>
 #    </header> 
 #  videos:
