@@ -72,6 +72,6 @@
   due_date: 3/14/2022
   files:
     - name: Jarzynski_2014_PhysicsToday.pdf
-    - title: Jarzynski (Physics Today 2014)
+      title: Jarzynski (Physics Today 2014)
 #  solns: HW_7_161_2021_Solutions.pdf
 #  code_files: HW_7_161_2021_Solutions_Associated.zip
