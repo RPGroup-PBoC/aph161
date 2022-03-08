@@ -255,6 +255,9 @@
     - url: https://youtu.be/2cm-8ZRkWt8
       title: Fidelity as defiance (20:00)
       description: This vignette asks the question of how accurate the processes of biological polymerization such as transcription and translation can be if their recognition mechanism is strictly based on equilibrium binding.
+    - url: https://youtu.be/dzXFG39UmvI
+      title: Why equilibrium? (22:04)
+      description: This vignette addresses the equilibrium elephant in the room. One of the most persistent comments that I have met in my time in biophysics is that living systems are not equilibrium and hence we have no right to use equilibrium thinking. This vignette takes a more nuanced view of that question.
     - url: https://youtu.be/bX9rz1SVWpQ
       title: Kinetic proofreading (18:28)
       description: This vignette explores one of the great conceptual ideas of modern molecular biology, namely, kinetic proofreading. We consider a highly schematized view of the phenomenon that illustrates the tradeoffs between speed, energy consumption, and fidelity.
@@ -262,7 +265,11 @@
 - day:
   date: > 
    Mon. Feb. 21 <br>
-   Wed. Feb. 23
+   Wed. Feb. 23 <br>
+   Mon. Feb. 28 <br>
+   Wed. Mar. 2 <br>
+   Mon. Mar. 7 <br>
+   Wed. Mar. 9
   topic1: >
     <header>
     <b>7. Signaling, Regulation, Feedback, and Control</b>
@@ -271,41 +278,35 @@
     - url: https://www.youtube.com/watch?v=uFbvFMtowjE&t=453s&ab_channel=PhysicalBiologyoftheCell%28CaltechBEAPh161%29
       title: MWC model (24:33)
       description: This vignette describes one of the most important models in biology, the Monod-Wyman-Changeux model of allostery. We will only scratch the surface of this important topic.
+    - url: https://youtu.be/kO15qwlJZi0
+      title: Introduction to gene networks (9:44)
+      description: This vignette introduces the concepts of gene regulation as we did in class last week.
+    - url: https://youtu.be/oowL6nGvb64
+      title: Rate equations for mRNA dynamics (19:25)
+      description: This vignette explains how we can use rate equations to compute the mean number of mRNA molecules per cell.
+    - url: https://youtu.be/qtb2ttRPYaY
+      title: Rate equations for auto-activation (15:35)
+      description: This vignette gives a first taste of the fascinating topic of feedback and how the theory of dynamical systems allows us to qualitatively dissect such processes.
+    - url: https://youtu.be/bBd0i2DcE9E
+      title: Rate equations for mutual repression (20:11)
+      description: Thsi vignette describes a classic genetic circuit in which the products of two genes repress each other. Interestingly, this gives rise to very rich behavior including the existence of a switch.
+    - url: https://youtu.be/gNA30zEVEX4
+      title: Mutual repression switch - fixed points (13:08)
+      description: This vignette describes how to find the fixed points (the steady state values) of the mutual repression switch.
+    - url: https://youtu.be/SmZmt3qi2-M
+      title: Stability analysis for mutual repression switch (25:01)
+      description: This vignette uses one of the most powerful tools we can draw from dynamical systems theory, namely, linear stability analysis, to see if perturbations shrink or grow. We earlier saw this kind of thinking in the context of the Turing instability.
+    - url: https://youtu.be/e3kcIHNzuIw
+      title: Chemical master equation for the constitutive promoter (15:15)
+      description: This vignette explores a more powerful tool for exploring dynamics of biological systems, namely, the chemical master equation. This approach allows us to solve for the entire probability distribution rather than just the means.
+    - url: https://youtu.be/WGvfYCe9tec
+      title: Chemical master equation for the two-state model of transcription (18:24)
+      description: The constitutive promoter null model is often not consistent with the data. The phenomenological model is often used to describe regulated transcription is the two-state promoter introduced in this vignette.
+    - url: https://youtu.be/jh1FR9w3lwM
+      title: Chemical master equation for the two-state model of transcription, part 2 (25:26)
+      description: Here we finish up our description of the two-state promoter.
 
-- day:
-  date: > 
-   Mon. Feb. 28 <br>
-   Wed. Mar. 2
-  topic1: >
-#    <header>
-#    <h3>6. Theory of Living Matter</h3>
-#    </header> 
-#  videos1:
-    
-- day:
-  date: > 
-   Mon. Mar. 7 <br>
-   Wed. Mar. 9
-  topic1: >
-#    <header>
-#    </header> 
-#  videos:
-#    - url: https://www.youtube.com/watch?v=ff1dH8KAoz0
-#      title: "Stress in fluids (14:59)"
-#    - url: https://www.youtube.com/watch?v=FDBPyMkB7Q8
-#      title: "Derivation of the Navier–Stokes equations (07:38)"
-#    - url: https://www.youtube.com/watch?v=pucOcvFAkiw
-#      title: "Dimensionless Navier-Stokes, Reynolds number (12:42)"
-#    - url: https://www.youtube.com/watch?v=rKm6pIqkRd0
-#      title: "Introduction to cytoplasmic streaming in Chara (08:18)"
-#    - url: https://www.youtube.com/watch?v=c5C7iUVEjLw
-#      title: "Stokes equations for the cytoplasmic streaming in Chara (20:17)"
-#    - url: https://www.youtube.com/watch?v=k3H6tmTM_h0
-#      title: "Viscoelasticity in tissues (20:29)"
-#    - url: https://www.youtube.com/watch?v=oY67jf_mSTY
-#      title: "Incompressibility (09:57)"
-#    - url: https://www.youtube.com/watch?v=9DM82zeY654
-#      title: "Self-organization in Chara (08:58)"
+
 
 
 
