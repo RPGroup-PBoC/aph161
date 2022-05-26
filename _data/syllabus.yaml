@@ -305,6 +305,16 @@
     - url: https://youtu.be/jh1FR9w3lwM
       title: Chemical master equation for the two-state model of transcription, part 2 (25:26)
       description: Here we finish up our description of the two-state promoter.
+- day:
+  date: >
+  topic1: >
+    <header>
+    <b>8. Reflections on the Course</b>
+    </header>
+  videos1:
+    - url:https://youtu.be/0IwAkXjWHRk
+      title: Why physics needs biology (43:03)
+      description: This vignette talks about how biology is a gift to physics and vice versa.
 
 
 
