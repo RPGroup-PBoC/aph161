@@ -308,7 +308,7 @@
 
 - day:
   date: >
-   (post-course)
+   (post course)
   topic1: >
     <header>
     <b>8. Reflections on the Course</b>
