@@ -37,7 +37,8 @@ you're doing, or it will break the display of the authors.
 {% endif %}
 
 <!-- Populate the author fields --> 
-<img src="{{ site.baseurl }}assets/img/people/{{ person.image }}">
+ <a class="post-thumbnail" style="background-image:url(assets/img/people/{{pic}})" href="{{website}}"></a>
+
 <!-- Populate the author environment with the information -->
 <div class="post-content">
 {% if author.link %}
