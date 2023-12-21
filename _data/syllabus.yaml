@@ -25,13 +25,16 @@
 
 
 
-#- day:
-#  date: > 
-#   Wed. Mar. 9
-#  topic: >
-#    <header>
-#    </header> 
-#  videos:
+- day:
+  date: > 
+   Week of Jan. 1 (#1)
+  topic: >
+    <header>
+      The wonder and mystery of Life
+    </header> 
+    Herding and migration.
+    What sets the scale of X? Teaching the order of magnitude thinking protocol.
+  videos:
 #    - url: https://www.youtube.com/watch?v=9vwD_mBfMCA
 #      title: "The Real Biology (13:38)"
 #    - url: https://www.youtube.com/watch?v=tnSg7o768No
