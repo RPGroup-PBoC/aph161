@@ -21,53 +21,14 @@ The syllabus ([PDF](http://rpdata.caltech.edu/courses/aph161/2021/161_2021_sylla
 </tr>
 {% for day in site.data.syllabus %}
 <tr>
-    <td>{{day.date}}  </td>
-    <td>{{day.topic1}}
-    {% if day.videos1 %}
-    {% for v in day.videos1 %}
-    {% if v.name %}
-    <a href="http://rpdata.caltech.edu/courses/aph161/2021/videos/{{v.name}}">{{v.title}}</a><br/>
-    {% else %} 
-    <a href="{{v.url}}">{{v.title}}</a><br/>
-    {{v.description}}<br/>
-    {%endif %}
+  <td>{{day.date}}  </td>
+  <td>{% for t in day.topics%}
+      <b>{{t.title}}</b><br>
+      {% if t.description %}
+      {{t.description}}<br>
+      {% endif %}
     {%endfor%}
-    {%endif %}
-    {{day.topic2}}
-    {% if day.videos2 %}
-    {% for v in day.videos2 %}
-    {% if v.name %}
-    <a href="http://rpdata.caltech.edu/courses/aph161/2021/videos/{{v.name}}">{{v.titlea}}</a><br/>
-    {% else %}
-    <a href="{{v.urla}}">{{v.titlea}}</a><br/>
-    {{v.descriptiona}}<br/>
-    {%endif %}
-    {%endfor%}
-    {%endif %}
-    </td>
-    <!--<td>--->
-    <!--{% if day.slide %}--->
-    <!--<a href="http://rpdata.caltech.edu/courses/aph161/protected/2022/slides/{{day.slide}}">Slides</a>--->
-    <!--{%endif%}---> 
-    <!--</td>---> 
-
-  <!-- {% if day.slide %} 
-  <td>
-  {% for s in day.slide %}
-  <a href="http://rpdata.caltech.edu/courses/aph161/protected/2020/videos/{{s}}"><b class="post-title">{{s}}</b></a> 
-  {%endfor%}
   </td>
-  {% else %}
-  <td> {{'-'}} </td>
-  {% endif %} -->
 </tr>
-{% endfor %}
+{%endfor%}
 </table>
-
-## Overflow Vignettes
-
-{% for extra in site.data.syllabus %}
-{% if extra.exurl %}
-<li> <a style="text-decoration: none;" href="{{extra.exurl}}"><b>{{extra.extitle}}</b>.</a> {{extra.exdesc}}</li>
-{% endif %}
-{% endfor %}
