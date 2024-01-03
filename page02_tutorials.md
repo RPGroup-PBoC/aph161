@@ -7,28 +7,26 @@ sidebar: true
 ---
 
 ---
+During this course, you will develop a computational prowess that will aid in your understanding of physical biology. These will be done using Jupyter notebooks through Google Colab, so you will need to sign into a Google Account to create new notebooks.
+
+We will post links to Jupyter Notebooks hosted on Colab of the tutorial sessions here.
 
 {% if site.data.tutorials %}
 
 {% for tut in site.data.tutorials %}
 
 <article class="post">
-<a class="post-thumbnail" style="background-image: url({{site.url}}/{{site.baseurl}}/assets/img/{{tut.pic}})" href="{{site.url}}/{{site.baseurl}}/assets/tut/{{tut.link}}.html"> </a>
+<a class="post-thumbnail" style="background-image: url({{site.url}}/{{site.baseurl}}/assets/img/{{tut.pic}})" href="{{tut.link}}" target="_blank"> </a>
 
 
 
 <div class="post-content">
-<b class="post-title"><a href="assets/tut/{{tut.link}}.html">{{tut.title}}</a></b>
+<b class="post-title"><a href="{{tut.link}}">{{tut.title}}</a></b>
 <p> {{tut.desc}}</p>
-<p>• <a href="assets/tut/{{tut.link}}.ipynb"> Jupyter Notebook (.ipynb)</a><br/></p>
+<p>• <a href="{{tut.link}}" target="_blank"> Google Colab</a><br/></p>
 {% if fig.req %}<i>Necessary Data Sets </i><br/>
 {% for ds in fig.req %}
-{% if ds.storage == 'local' %}
-{% assign link = "{{site.url}}/{{site.baseurl}}/datasets/{{ds.link}}" %}
-{% else %}
-{% assign link = "{{ds.link}}" %}
-{% endif %}
-<a style="font-size: 0.9em;" href="{{link}}"> - {{ds.title}} </a><br/>
+<a style="font-size: 0.9em;" href="{{tut.link}}"> - {{ds.title}} </a><br/>
 {% endfor %}
 {% endif %}
 </div>

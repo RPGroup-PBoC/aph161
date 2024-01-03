@@ -1,36 +1,30 @@
 - tut:
-  title: "Tutorial 0a: Setting Up Your Computer"
-  link: t0a/t0a_setting_up_python
-  desc:  This tutorial will walk you through setting Python 3.7 on your computer.
-  pic: tut0a.png
-
-- tut:
-  title: "Tutorial 0b: Jupyter Notebooks"
-  link: t0b/t0b_jupyter_notebooks
-  desc:  This tutorial will walk you through how to use the Jupyter Notebook.
+  title: "Tutorial 0.0 – A Primer On Jupyter Notebooks and Google Colab"
+  link: https://colab.research.google.com/drive/1uqIm6CJ2FcbYsJ29lCwOefdn-6Nyc5ch?usp=sharing
+  desc:  This tutorial explains what a Jupyter Notebook is and how to use it on Google Colab.
   pic: tut0b.png
 
 - tut:
-  title: "Tutorial 0c: A Primer On Python Syntax And Plotting"
-  link: t0c/t0c_python_syntax_and_plotting
-  desc:  This tutorial will walk you through how to use the Jupyter Notebook.
+  title: "Tutorial 0.1 – A Primer On Python Syntax"
+  link: https://colab.research.google.com/drive/1Jvi1pCsQ2yjmSwcNRp1K3YsG_DDvcKEA?usp=sharing
+  desc:  This tutorial gives a quick intro to programming in Python.
   pic: tut0c.png
 
 - tut:
   title: "Tutorial 1: Forward Euler Integration Method"
-  link: t1/forward_euler
+  link: https://colab.research.google.com/drive/1jWCzUGcoqPfrEJxR8hQChjlbHIgg9L8-?usp=sharing
   desc:  In this tutorial, we will cover how to write a simple numerical integrator using the Forward Euler method to examine the dynamics of exponential growth.
   pic: tut1.png
 
 - tut:
   title: "Tutorial 2: Binomial Partitioning"
-  link: t2/binomial_partitioning
+  link: https://colab.research.google.com/drive/18GCMG-cbcabMVVENV0zVMYfsBuMURhig?usp=sharing
   desc:  In this tutorial, we simulate coin flips and write a function to sample from the binomial distribution.
   pic: tut2.png
 
 - tut:
   title: "Tutorial 3: Stochastic Simulation of a Random Walker"
-  link: t3/t03_stochastic_simulations
+  link: https://colab.research.google.com/drive/1R6Jl3LoU2TKdpT_afMaIEpj7D4c9c_iX?usp=sharing
   desc:  In this tutorial, we simulate random walkers under different scenarios.
   pic: tut3.png
 
