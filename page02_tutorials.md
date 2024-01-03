@@ -11,45 +11,11 @@ During this course, you will develop a computational prowess that will aid in yo
 
 We will post links to Jupyter Notebooks hosted on Colab of the tutorial sessions here.
 
-{% if site.data.tutorials %}
-
-{% for tut in site.data.tutorials %}
-
-<article class="post">
-<a class="post-thumbnail" style="background-image: url({{site.url}}/{{site.baseurl}}/assets/img/{{tut.pic}})" href="{{tut.link}}" target="_blank"> </a>
-
-
-
-<div class="post-content">
-<b class="post-title"><a href="{{tut.link}}">{{tut.title}}</a></b>
-<p> {{tut.desc}}</p>
-<p>• <a href="{{tut.link}}" target="_blank"> Google Colab</a><br/></p>
-{% if fig.req %}<i>Necessary Data Sets </i><br/>
-{% for ds in fig.req %}
-<a style="font-size: 0.9em;" href="{{tut.link}}"> - {{ds.title}} </a><br/>
-{% endfor %}
-{% endif %}
-</div>
-
-</article>
+{% for topic in site.data.tutorials %}
+# {{topic[0]}}
+{% for script in topic[1] %}
+* {%if script.colab %}<a href="{{script.colab}}" target="_blank">**{{script.title}}**</a>{%else%}**{{script.title}}**{%endif%}\|
+  {{script.description}}   {%if script.links %} <br/>  {%for l in script.links
+  %} <i> <a href="{{l[1]}}" target="_blank">**{{l[0]}}**</a> </i> <br/>{%endfor%}   {%endif%}
 {%endfor%}
-{% endif %}
-
-
-
-
-
-{% if site.data.datasets %}
-
-## Data Sets
-{% for ds in site.data.datasets %}
-* [{{ds.name}}]({%if ds.storage !=
-  'remote'%}{{site.baseurl}}/datasets/{{ds.link}}{%
-  else%}{{site.link}}{% endif %}) \| {% if ds.filetype %}(filetype:
-  {{ds.filetype}}){%endif%}{% if ds.filesize %}({{ds.filesize}}){%endif%}{%
-  if ds.storage == remote %} DOI: {{ds.DOI}}{%endif%}
-{% endfor %}
-{% endif %}
-
-
-
+{%endfor%}
