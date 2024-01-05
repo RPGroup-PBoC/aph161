@@ -1,13 +1,27 @@
-- pub:
-  fname: unreasonable_effectiveness_of_mathematics_wigner.pdf
-  title: The unreasonable effectiveness of mathematics in the natural sciences
-  authors: Eugene Wigner
-  journal: Communications in pure and applied mathematics
-  year: 1960
-  vol_iss: 13(1)
-  desc: This article gives an expansive view of the power of mathematics in studying the natural world.
-- pub:
-  url: http://book.bionumbers.org/
-  title: Cell biology by the numbers
-  desc: This book is a free and online version that attempts to provide a view of modern biology through the prism of biological numeracy. This book can be a great resource for many of the order-of-magnitude questions we will face in our approach to biology.
+Class 01/03:
+  - pub:
+    fname: unreasonable_effectiveness_of_mathematics_wigner.pdf
+    title: The unreasonable effectiveness of mathematics in the natural sciences
+    authors: Eugene Wigner
+    journal: Communications in pure and applied mathematics
+    year: 1960
+    vol_iss: 13(1)
+    desc: This article gives an expansive view of the power of mathematics in studying the natural world.
+  - pub:
+    url: http://book.bionumbers.org/
+    title: Cell biology by the numbers
+    desc: This book is a free and online version that attempts to provide a view of modern biology through the prism of biological numeracy. This book can be a great resource for many of the order-of-magnitude questions we will face in our approach to biology.
+  - pub: 
+    title: Street-Fighting mathematics
+    authors: Sanjoy Mahajan
+    year: 2010
+    url: https://sept.mit.edu/sites/default/files/Streetfighting%20Mathematics.pdf
+    desc: Rules for making estimates. Chapter 5 goes through the mathematics of using one and few. Punch your opponent in the mouth while they are discussing the rules.
+  - pub: 
+    title: More is Different
+    authors: P. W. Anderson
+    year: 1972
+    url: https://www.science.org/doi/10.1126/science.177.4047.393
+    desc: This interesting paper argues that Chemistry is not just applied Physics in the way that Biology is not just applied Chemistry.
+
 
