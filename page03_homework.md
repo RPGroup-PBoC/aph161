@@ -31,7 +31,7 @@ ChatGPT policy: While we encourage you work on homework problems that involve co
 </td>
 {% if hwk.solns %}
 <td>
-  <a href="assets/hwk/{{hwk.solns}}"target="_blank"><b class="post-title">{{'Solutions'}}</b></a> 
+  <a href="assets/hwk/{{hwk.solns}}" target="_blank"><b class="post-title">{{'Solutions'}}</b></a> 
 </td>
 {% else %}  
    <td> {{'-'}} </td>
