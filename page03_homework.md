@@ -28,19 +28,10 @@ ChatGPT policy: While we encourage you work on homework problems that involve co
 <tr>
 <td> <a href="assets/hwk/{{hwk.pset}}"> {{hwk.name}} </a></td>
 <td> {{hwk.due_date}} </td>
-<td> {% if hwk.files %}
-	{% for f in hwk.files %}
-    <a href="http://rpdata.caltech.edu/courses/aph161/protected/2022/hw_files/{{f.name}}">{{f.title}}</a><br/>
-    {%endfor%}
-	{%endif %}
 </td>
 {% if hwk.solns %}
 <td>
-  <a href="http://rpdata.caltech.edu/courses/aph161/protected/2022/solutions/{{hwk.solns}}"><b class="post-title">{{'Solutions'}}</b></a> 
-  {% if hwk.code_files %}
-    <br/>
-      <a href="http://rpdata.caltech.edu/courses/aph161/protected/2022/solutions/{{hwk.code_files}}"><b class="post-title">{{'Associated files (.zip)'}}</b></a>
-  {% endif  %}
+  <a href="assets/hwk/{{hwk.solns}}"><b class="post-title">{{'Solutions'}}</b></a> 
 </td>
 {% else %}  
    <td> {{'-'}} </td>
