@@ -26,12 +26,12 @@ ChatGPT policy: While we encourage you work on homework problems that involve co
 </tr>
 {% for hwk in site.data.homework %}
 <tr>
-<td> <a href="assets/hwk/{{hwk.pset}}"> {{hwk.name}} </a></td>
+<td> <a href="assets/hwk/{{hwk.pset}}" target="_blank"> {{hwk.name}} </a></td>
 <td> {{hwk.due_date}} </td>
 </td>
 {% if hwk.solns %}
 <td>
-  <a href="assets/hwk/{{hwk.solns}}"><b class="post-title">{{'Solutions'}}</b></a> 
+  <a href="assets/hwk/{{hwk.solns}}"target="_blank"><b class="post-title">{{'Solutions'}}</b></a> 
 </td>
 {% else %}  
    <td> {{'-'}} </td>
