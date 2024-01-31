@@ -21,7 +21,6 @@ ChatGPT policy: While we encourage you work on homework problems that involve co
 <tr>
 <th> <b>Homework</b></th>
 <th> <b> Due date</b> </th>
-<th> <b> Associated files</b> </th>
 <th> <b> Solutions</b> </th><br/>
 </tr>
 {% for hwk in site.data.homework %}
