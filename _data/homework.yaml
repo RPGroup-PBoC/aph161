@@ -3,18 +3,42 @@
   name: Homework 1
   due_date: 1/10/2024
   solns: HW_1_161_2024_Solution.pdf
+
 - hwk:
   pset: HW_2_161_2024_Final.pdf
   name: Homework 2
   due_date: 1/17/2024
   solns: HW_2_161_2024_Solution.pdf
+
 - hwk:
   pset: HW_3_161_2024_Final.pdf
   name: Homework 3
   due_date: 1/31/2024
   #solns: PBoC_Winter2022_HW1_Solutions_Final.pdf
+
 - hwk:
   pset: HW_4_161_2024_Final.pdf
   name: Homework 4
   due_date: 2/7/2024
+  #solns: PBoC_Winter2022_HW1_Solutions_Final.pdf
+
+- hwk:
+  pset: HW_5_161_2024_Final.pdf
+  name: Homework 5
+  due_date: 2/14/2024
+  file:
+    - name: Liu <i>et al.</i>, 2013
+      path: Liu2013.pdf
+    - name: Drocoo <i>et al.</i>, 2012
+      path: Drocco2012.pdf
+    - name: Abu-Arish <i>et al.</i>, 2010
+      path: Abu-Arish2010.pdf
+    - name: Gregor <i>et al.</i>, 2007
+      path: Gregor2007.pdf
+    - name: Driever & Nüsslein-Volhard, 1989
+      path: Driever1989.pdf
+    - name: Driever & Nüsslein-Volhard, 1988
+      path: Driever1988.pdf
+
+    
   #solns: PBoC_Winter2022_HW1_Solutions_Final.pdf

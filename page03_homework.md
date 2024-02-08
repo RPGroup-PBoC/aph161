@@ -17,17 +17,26 @@ Submission policy: Submit all write-ups as PDFs and all Jupyter code as **both**
 Collaboration policy: you may discuss the homework with others, but your explanations and derivations must be your own.  Your logic and the *significance* of your results should also be explained.
 
 ChatGPT policy: While we encourage you work on homework problems that involve coding, the use of ChatGPT is allowed for coding parts of homework problems. If you decide to use ChatGPT, we ask you to include a screenshot of the prompt that was used as well as the output that ChatGPT produced. The use of ChatGPT for any other homework problem is prohibited. This policy is enforced under the honor code.
+
 <table>
 <tr>
 <th> <b>Homework</b></th>
 <th> <b> Due date</b> </th>
+<th> <b> Files</b> </th>
 <th> <b> Solutions</b> </th><br/>
 </tr>
 {% for hwk in site.data.homework %}
 <tr>
 <td> <a href="assets/hwk/{{hwk.pset}}" target="_blank"> {{hwk.name}} </a></td>
 <td> {{hwk.due_date}} </td>
-</td>
+{% if hwk.file %}
+  <td>
+  {% for file in hwk.file %}
+  <a href="assets/papers/{{file.path}}" target="_blank"> {{file.name}} </a><br/>
+  {% endfor %}
+{% else %} 
+<td>{{'-'}}</td>
+{%endif%}
 {% if hwk.solns %}
 <td>
   <a href="assets/hwk/{{hwk.solns}}" target="_blank"><b class="post-title">{{'Solutions'}}</b></a> 
