@@ -42,5 +42,13 @@
     - name: Driever & Nüsslein-Volhard, 1988
       path: driever1988a.pdf
 
+- hwk:
+  pset: HW_6_161_2024_Final.pdf
+  name: Homework 6
+  due_date: 2/7/2024
+  file:
+    - name: Lu <i>et al.</i>, 2014
+      path: lu2014.pdf
+  #solns: PBoC_Winter2022_HW1_Solutions_Final.pdf
     
   #solns: PBoC_Winter2022_HW1_Solutions_Final.pdf
