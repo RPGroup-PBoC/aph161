@@ -1,52 +1,52 @@
-- day:
-  date: Week of Jan. 1 (#1)
-  topics: 
-    - title: The wonder and mystery of Life
-      description: Herding and migration. What sets the scale of X? Teaching the order of magnitude thinking protocol.
-  video:
-    - url: https://www.youtube.com/watch?v=ih1Zz0tyPNQ
-      title: "Night science (08:48)"
+# - day:
+#   date: Week of Jan. 1 (#1)
+#   topics: 
+#     - title: The wonder and mystery of Life
+#       description: Herding and migration. What sets the scale of X? Teaching the order of magnitude thinking protocol.
+#   video:
+#     - url: https://www.youtube.com/watch?v=ih1Zz0tyPNQ
+#       title: "Night science (08:48)"
 
-- day:
-  date: Week of Jan. 8 (#2)
-  topics:
-    - title: Exploring the living world using order of magnitude thinking. 
-      description: Dimensional analysis, dimensionless variables.
+# - day:
+#   date: Week of Jan. 8 (#2)
+#   topics:
+#     - title: Exploring the living world using order of magnitude thinking. 
+#       description: Dimensional analysis, dimensionless variables.
 
-- day:
-  date: Week of Jan. 15 (#3)
-  topics:
-      - title: Stuff(t)
-        description: The big, big topic of time evolution as one of biology's (and everything else) great challenges. The protocol.
+# - day:
+#   date: Week of Jan. 15 (#3)
+#   topics:
+#       - title: Stuff(t)
+#         description: The big, big topic of time evolution as one of biology's (and everything else) great challenges. The protocol.
 
-- day:
-  date: Week of Jan. 22 (#4)/Week of Jan. 29 (#5)
-  topics: 
-      - title: Null hypotheses
-        description: What they are, how to formulate them, examples, and how they have implications for dangerous prediction.
+# - day:
+#   date: Week of Jan. 22 (#4)/Week of Jan. 29 (#5)
+#   topics: 
+#       - title: Null hypotheses
+#         description: What they are, how to formulate them, examples, and how they have implications for dangerous prediction.
 
-- day:
-  date: Week of Feb. 05 (#6)/Week of Feb. 12 (#7)
-  topics: 
-      - title: The real secret of life.
-        description: The rules of spontaneous change - an ode ot the laws of thermodynamics. Defiance. Biological batteries. Case studies ni life needing energy. Forming gradients. Fidelity ni biological polymerization. Adaptation.
-
-
-- day:
-  date: Week of Feb. 19 (#8)/Week of Feb. 25 (#9)
-  topics: 
-     - title: Weird ass vectors, big data, regression, thinking big about data, etc. 
-       description: 
-     - title: All the different ways we write things as vectors. 
-       description: Toxo shape in 3d, drum head and entire symphony - show Lang Lang playing rhapsody in blue and then how each instrument is a low dimensional vector, images.
-     - title: The Eigenworm as an example.
-       description: 
-     - title: Graph theory as a big piece of mathematics that is pervasive and powerful.
-       description: 
+# - day:
+#   date: Week of Feb. 05 (#6)/Week of Feb. 12 (#7)
+#   topics: 
+#       - title: The real secret of life.
+#         description: The rules of spontaneous change - an ode ot the laws of thermodynamics. Defiance. Biological batteries. Case studies ni life needing energy. Forming gradients. Fidelity ni biological polymerization. Adaptation.
 
 
-- day:
-  date: Week of Mar. 1 (#10)
-  topics: 
-     - title: The dreamer's toolkit.
-       description: Why we are here. Summary of our adventure, the place of life in the universe, the place of biology in science, the play of curiosity and joy in our lives.
+# - day:
+#   date: Week of Feb. 19 (#8)/Week of Feb. 25 (#9)
+#   topics: 
+#      - title: Weird ass vectors, big data, regression, thinking big about data, etc. 
+#        description: 
+#      - title: All the different ways we write things as vectors. 
+#        description: Toxo shape in 3d, drum head and entire symphony - show Lang Lang playing rhapsody in blue and then how each instrument is a low dimensional vector, images.
+#      - title: The Eigenworm as an example.
+#        description: 
+#      - title: Graph theory as a big piece of mathematics that is pervasive and powerful.
+#        description: 
+
+
+# - day:
+#   date: Week of Mar. 1 (#10)
+#   topics: 
+#      - title: The dreamer's toolkit.
+#        description: Why we are here. Summary of our adventure, the place of life in the universe, the place of biology in science, the play of curiosity and joy in our lives.
