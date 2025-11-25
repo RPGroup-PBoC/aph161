@@ -1,4 +1,4 @@
-Class 01/03:
+Class 01/05:
   - pub:
     fname: unreasonable_effectiveness_of_mathematics_wigner.pdf
     title: The unreasonable effectiveness of mathematics in the natural sciences
@@ -25,11 +25,3 @@ Class 01/03:
     desc: This interesting paper argues that Chemistry is not just applied Physics in the way that Biology is not just applied Chemistry.
 
 
-Class 02/14:
-  - pub:
-    title: "Germline P Granules Are Liquid Droplets That Localize by Controlled Dissolution/Condensation"
-    authors: Brangwynne et al.
-    year: 2009
-    url: https://pubmed.ncbi.nlm.nih.gov/19460965/
-    desc: Discovery of liquid like droplets in <i>C. elegans</i> embryos formed by RNA and RNA-binding proteins.
-   
