@@ -1,30 +1,30 @@
 Tutorials:
-  - script: 
-    title: Tutorial 0.0 -- A Primer On Jupyter Notebooks and Google Colab
-    colab: "https://colab.research.google.com/drive/1uqIm6CJ2FcbYsJ29lCwOefdn-6Nyc5ch?usp=sharing"
-    description: >
-      This tutorial explains what a Jupyter Notebook is and how to use it on Google Colab.
-  - script: 
-    title: Tutorial 0.1 -- A Primer On Python Syntax
-    colab: "https://colab.research.google.com/drive/1Jvi1pCsQ2yjmSwcNRp1K3YsG_DDvcKEA?usp=sharing"
-    description: >
-      This tutorial gives a quick intro to programming in Python. 
+  # - script: 
+  #   title: Tutorial 0.0 -- A Primer On Jupyter Notebooks and Google Colab
+  #   colab: "https://colab.research.google.com/drive/1uqIm6CJ2FcbYsJ29lCwOefdn-6Nyc5ch?usp=sharing"
+  #   description: >
+  #     This tutorial explains what a Jupyter Notebook is and how to use it on Google Colab.
+  # - script: 
+  #   title: Tutorial 0.1 -- A Primer On Python Syntax
+  #   colab: "https://colab.research.google.com/drive/1Jvi1pCsQ2yjmSwcNRp1K3YsG_DDvcKEA?usp=sharing"
+  #   description: >
+  #     This tutorial gives a quick intro to programming in Python. 
 
-  - script:
-    title: Tutorial 1 -- Forward Euler Integration Method
-    colab: "https://colab.research.google.com/drive/1jWCzUGcoqPfrEJxR8hQChjlbHIgg9L8-?usp=sharing"
-    description: >  
-      In this tutorial, we will cover how to write a simple numerical integrator using the Forward Euler method to examine the dynamics of exponential growth.
+  # - script:
+  #   title: Tutorial 1 -- Forward Euler Integration Method
+  #   colab: "https://colab.research.google.com/drive/1jWCzUGcoqPfrEJxR8hQChjlbHIgg9L8-?usp=sharing"
+  #   description: >  
+  #     In this tutorial, we will cover how to write a simple numerical integrator using the Forward Euler method to examine the dynamics of exponential growth.
 
-  - script:
-    title: Tutorial 2 -- Binomial Partitioning
-    colab: "https://colab.research.google.com/drive/18GCMG-cbcabMVVENV0zVMYfsBuMURhig?usp=sharing"
-    description: >
-      In this tutorial, we simulate coin flips and write a function to sample from the binomial distribution.
+  # - script:
+  #   title: Tutorial 2 -- Binomial Partitioning
+  #   colab: "https://colab.research.google.com/drive/18GCMG-cbcabMVVENV0zVMYfsBuMURhig?usp=sharing"
+  #   description: >
+  #     In this tutorial, we simulate coin flips and write a function to sample from the binomial distribution.
   
-  - script:
-    title: Tutorial 3 -- Stochastic Simulation of a Random Walker
-    colab: "https://colab.research.google.com/drive/1R6Jl3LoU2TKdpT_afMaIEpj7D4c9c_iX?usp=sharing"
-    description: >
-      In this tutorial, we simulate random walkers under different scenarios.
+  # - script:
+  #   title: Tutorial 3 -- Stochastic Simulation of a Random Walker
+  #   colab: "https://colab.research.google.com/drive/1R6Jl3LoU2TKdpT_afMaIEpj7D4c9c_iX?usp=sharing"
+  #   description: >
+  #     In this tutorial, we simulate random walkers under different scenarios.
   
