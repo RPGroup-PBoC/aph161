@@ -12,7 +12,7 @@ Homeworks are due 30min before class (2:00 PM) one week after they are posted.  
 
 Late policy: NO late homeworks will be accepted (late means anytime after class starts the day the homework is due) unless you have a mindblowingly good excuse - this means a note from someone like a doctor or a Dean.  Rob does not grant extensions.
 
-Submission policy: Submit all write-ups as PDFs and all Jupyter code as **both** .ipynb and .html files. Your written solutions should be clear and understandable throughout so that we can follow your reasoning. Submit your files for **odd** homeworks to [tom@caltech.edu](mailto:tom@caltech.edu) and for **even** homeworks to [jordan.santana@caltech.edu](mailto:jordan.santana@caltech.edu) with the subject line “HW # - FirstName LastName”.
+Submission policy: Submit all write-ups as PDFs and all Jupyter code as **both** .ipynb and .html files. Your written solutions should be clear and understandable throughout so that we can follow your reasoning. Submit your files for homeworks to [smahdavi@caltech.edu](mailto:smahdavi@caltech.edu) with the subject line “HW # - FirstName LastName”.
 
 Collaboration policy: you may discuss the homework with others, but your explanations and derivations must be your own.  Your logic and the *significance* of your results should also be explained.
 
