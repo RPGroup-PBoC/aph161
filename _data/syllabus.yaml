@@ -16,24 +16,48 @@
 - day:
   date: Week of Jan. 19 (#3)
   topics:
-      - title: Biology's 
-        description: The big, big topic of time evolution as one of biology's (and everything else) great challenges. The protocol.
+      - title: Biology's unique dynamics.
+        description: Phenomenology of exploratory dyamics; microtubule search, development of vascuature, the immune system and animal foraging. The mathematics of exploratory processes.
 
 - day:
-  date: Week of Jan. 26 (#4)/Week of Feb. 02 (#5)
+  date: Week of Jan. 26 (#4)
   topics: 
       - title: Null hypotheses
         description: What they are, how to formulate them, examples, and how they have implications for dangerous prediction.
 
 - day:
-  date: Week of Feb. 09 (#6)/Week of Feb. 16 (#7)
+  date: Week of Feb. 02 (#5)
+  topics: 
+      - title: Null hypotheses
+        description: What they are, how to formulate them, examples, and how they have implications for dangerous prediction.
+
+- day:
+  date: Week of Feb. 09 (#6)
+  topics: 
+      - title: The real secret of life.
+        description: The rules of spontaneous change - an ode ot the laws of thermodynamics. Defiance. Biological batteries. Case studies ni life needing energy. Forming gradients. Fidelity ni biological polymerization. Adaptation.
+
+- day:
+  date: Week of Feb. 16 (#7)
   topics: 
       - title: The real secret of life.
         description: The rules of spontaneous change - an ode ot the laws of thermodynamics. Defiance. Biological batteries. Case studies ni life needing energy. Forming gradients. Fidelity ni biological polymerization. Adaptation.
 
 
 - day:
-  date: Week of Feb. 23 (#8)/Week of Mar. 02 (#9)
+  date: Week of Feb. 23 (#8)
+  topics: 
+     - title: Weird ass vectors, big data, regression, thinking big about data, etc. 
+       description: 
+     - title: All the different ways we write things as vectors. 
+       description: Toxo shape in 3d, drum head and entire symphony - show Lang Lang playing rhapsody in blue and then how each instrument is a low dimensional vector, images.
+     - title: The Eigenworm as an example.
+       description: 
+     - title: Graph theory as a big piece of mathematics that is pervasive and powerful.
+       description: 
+
+- day:
+  date: Week of Mar. 02 (#9)
   topics: 
      - title: Weird ass vectors, big data, regression, thinking big about data, etc. 
        description: 
