@@ -40,36 +40,17 @@
   date: Week of Feb. 16 (#7)
   topics: 
       - title: Adapatation across scales; signaling and regulation
-        description: 
+        description: The rules of chemotaxis. Variations on the theme of gene regulation. Graph theory as a big piece of mathematics that is pervasive and powerful.
 
 
 - day:
   date: Week of Feb. 23 (#8)
   topics: 
-     - title: Weird ass vectors, big data, regression, thinking big about data, etc. 
-       description: 
-     - title: All the different ways we write things as vectors. 
-       description: Toxo shape in 3d, drum head and entire symphony - show Lang Lang playing rhapsody in blue and then how each instrument is a low dimensional vector, images.
-     - title: The Eigenworm as an example.
-       description: 
-     - title: Graph theory as a big piece of mathematics that is pervasive and powerful.
-       description: 
+     - title: The science of engineering life. 
+       description: Reflections on engineering. Manipulating atoms, energy and information.
 
 - day:
   date: Week of Mar. 02 (#9)
   topics: 
-     - title: Weird ass vectors, big data, regression, thinking big about data, etc. 
-       description: 
-     - title: All the different ways we write things as vectors. 
-       description: Toxo shape in 3d, drum head and entire symphony - show Lang Lang playing rhapsody in blue and then how each instrument is a low dimensional vector, images.
-     - title: The Eigenworm as an example.
-       description: 
-     - title: Graph theory as a big piece of mathematics that is pervasive and powerful.
-       description: 
-
-
-- day:
-  date: Week of Mar. 09 (#10)
-  topics: 
      - title: The dreamer's toolkit.
-       description: Why we are here. Summary of our adventure, the place of life in the universe, the place of biology in science, the play of curiosity and joy in our lives.
+       description: Why we are here. Summary of our adventure, the place of life in the universe, the place of biology in science, the place of curiosity and joy in our lives.
