@@ -14,7 +14,8 @@ Late policy: NO late homeworks will be accepted (late means anytime after class 
 
 Submission policy: Submit all write-ups as PDFs and all Jupyter code as **both** .ipynb and .html files. Your written solutions should be clear and understandable throughout so that we can follow your reasoning. Submit your HW on Canvas, through Gradescope.
 
-%Submit your files for homeworks to [smahdavi@caltech.edu](mailto:smahdavi@caltech.edu) with the subject line “HW # - FirstName LastName”.
+<!-- Submit your files for homeworks to [smahdavi@caltech.edu](mailto:smahdavi@caltech.edu) with the subject line “HW # - FirstName LastName”. -->
+
 
 Collaboration policy: you may discuss the homework with others, but your explanations and derivations must be your own.  Your logic and the *significance* of your results should also be explained.
 
