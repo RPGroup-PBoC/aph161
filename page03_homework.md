@@ -12,7 +12,7 @@ Homeworks are due 30min before class (2:00 PM) one week after they are posted.  
 
 Late policy: NO late homeworks will be accepted (late means anytime after class starts the day the homework is due) unless you have a mindblowingly good excuse - this means a note from someone like a doctor or a Dean.  Rob does not grant extensions.
 
-Submission policy: Submit all write-ups as PDFs and all Jupyter code as **both** .ipynb and .html files. Your written solutions should be clear and understandable throughout so that we can follow your reasoning. Submit your HW on Canvas, through Gradescope.
+Submission policy: Submit all write-ups as PDFs and all Jupyter code as **both** .ipynb and .html files. Your written solutions should be clear and understandable throughout so that we can follow your reasoning. Submit your HW on Canvas, through Gradescope. Extension requests have to be sent 6 hours before homework is due, everything after that will be regarded as late. Late submission are deducted 10% of points, increasing by 10% for every hour after  330pm.
 
 <!-- Submit your files for homeworks to [smahdavi@caltech.edu](mailto:smahdavi@caltech.edu) with the subject line “HW # - FirstName LastName”. -->
 
