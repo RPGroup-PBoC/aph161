@@ -6,16 +6,12 @@ permalink: syllabus
 sidebar: true
 ---
 
-
-
 <b>Required text:</b> Physical Biology of the Cell (2nd ed) by Phillips, Kondev, Theriot and Garcia (ISBN: 0815344503)
 
 The syllabus is tentative and subject to change. During the pandemic, Rob gave a series of related vignettes found here:
 <a href="https://www.youtube.com/@physicalbiologyofthecellca307/videos" target="_blank">
 the Physical Biology of the Cell YouTube channel
 </a>.
-
-
 
 <table>
 <tr>
@@ -25,13 +21,24 @@ the Physical Biology of the Cell YouTube channel
 {% for day in site.data.syllabus %}
 <tr>
   <td>{{day.date}}  </td>
-  <td>{% for t in day.topics%}
+  <td>
+    {% for t in day.topics %}
       <b>{{t.title}}</b><br>
       {% if t.description %}
-      {{t.description}}<br>
+        {{t.description}}<br>
       {% endif %}
-    {%endfor%}
+    {% endfor %}
+
+    {% if day.video %}
+      <br><b>Videos:</b><br>
+      {% for v in day.video %}
+        <a href="{{v.url}}" target="_blank">{{v.title}}</a><br>
+        {% if v.description %}
+          {{v.description}}<br>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
   </td>
 </tr>
-{%endfor%}
+{% endfor %}
 </table>
