@@ -51,8 +51,8 @@
         title: "Vectors An Introduction"
         description: The notion of vector is much broader than the simple idea of position vector we first encounter in physics. This vignette describes various generalizations of the notion of vector.
       - url: https://youtu.be/GcZDt_cY5nI?si=7XLSCmBx_CxK9zm2
-       title: "The “Right” Variables and the Awesome Power of Data Collapse"
-       description: This vignette describes the deep and important question of what degrees of freedom we should use in describing a given problem.  After illustrating this with several examples, we describe the notion of data collapse.
+        title: "The “Right” Variables and the Awesome Power of Data Collapse"
+        description: This vignette describes the deep and important question of what degrees of freedom we should use in describing a given problem.  After illustrating this with several examples, we describe the notion of data collapse.
        
 - day:
   date: Week of Feb. 16 (#7)
