@@ -18,6 +18,13 @@
   topics:
       - title: Biology's unique dynamics.
         description: Phenomenology of exploratory dyamics; microtubule search, development of vasculature, the immune system and animal foraging. The mathematics of exploratory processes.
+  video:
+      - url: https://youtu.be/Ftn27OewCcw?si=phKc-4c_heUVCadq
+        title: "Phenomenology of exploratory dynamics"
+      - url: https://youtu.be/AZeGiiXDibs?si=upvVEe7CNpRjfeoV
+        title: "Chromosome segregation"
+      - url: https://youtu.be/TKEQsAVvK84?si=9TTqOLaKcP6gYYEC
+        title: "Geometric distributions"
 
 - day:
   date: Week of Jan. 26 (#4)
@@ -36,6 +43,13 @@
   topics: 
       - title: Weird vectors, big data, regression, thinking big about data, etc. 
         description:  Jiggling and coupled vibrations (covariance matrices), shapes, transcriptomes, the Eigenworm as an example.
+  video:
+      - url: https://youtu.be/XzsdeLyZTEU?si=HScZ7-jAfkNoKypE
+        title: "Representations An Introduction"
+        description: One of the most profound ways in which mathematics allows us to describe the world around us is through different REPRESENTATIONS of objects, processes and concepts. This vignette provides a number of examples of such representations.
+      - url: https://youtu.be/hIAi3ezzkqA?si=_QtOanqzkvjzulw9
+        title: "Vectors An Introduction"
+        description: The notion of vector is much broader than the simple idea of position vector we first encounter in physics. This vignette describes various generalizations of the notion of vector.
 - day:
   date: Week of Feb. 16 (#7)
   topics: 
