@@ -55,6 +55,8 @@
         description: This vignette describes the deep and important question of what degrees of freedom we should use in describing a given problem.  After illustrating this with several examples, we describe the notion of data collapse.
       - url: https://youtu.be/0gsMZnRn7Mo?si=Dzu1-HIOPrGawVrj
         title: "The “Right” Coordinates for the Harmonic Oscillators - Part 1"
+        url: https://youtu.be/yNZmmW07PX4?si=LbgupKHyYJLPCP6S
+        title: "The “Right” Coordinates for the Harmonic Oscillators - Part 2"
         description: This vignette describes the all-important notion of finding the right coordinates in the concrete situation of coupled mass-spring systems.  Though this sounds like it is far from biology, there are few examples that are more potent for showing the essence of ideas such as PCA.
 - day:
   date: Week of Feb. 16 (#7)
