@@ -44,31 +44,10 @@
     - name: Driever & Nüsslein-Volhard, 1988
       path: driever1988a.pdf
 
-
-# - hwk:
-#   pset: HW_5_161_2024_Final.pdf
-#   name: Homework 5
-#   due_date: 2/14/2024
-#   file:
-#     - name: Liu <i>et al.</i>, 2013
-#       path: Liu2013.pdf
-#     - name: Drocoo <i>et al.</i>, 2012
-#       path: Drocco2012.pdf
-#     - name: Drocoo <i>et al.</i>, 2011
-#       path: Drocco2011.pdf
-#     - name: Abu-Arish <i>et al.</i>, 2010
-#       path: Abu-Arish2010.pdf
-#     - name: Gregor <i>et al.</i>, 2007
-#       path: Gregor2007.pdf
-#     - name: Driever & Nüsslein-Volhard, 1989
-#       path: Driever1989.pdf
-#     - name: Driever & Nüsslein-Volhard, 1988
-#       path: driever1988a.pdf
-
-# - hwk:
-#   pset: HW_6_161_2024.pdf
-#   name: Homework 6
-#   due_date: 3/6/2024
+- hwk:
+  pset: HW_6_161_2026.pdf
+  name: Homework 6
+  due_date: 2/25/2026
 #   file:
 #     - name: Lu <i>et al.</i>, 2014
 #       path: lu2014.pdf
