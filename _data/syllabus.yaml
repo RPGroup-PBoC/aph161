@@ -63,7 +63,13 @@
   topics: 
       - title: Adapatation across scales; signaling and regulation
         description: The rules of chemotaxis. Variations on the theme of gene regulation. Graph theory as a big piece of mathematics that is pervasive and powerful.
-
+  video:
+      - url: https://youtu.be/NpKpXUnk9E4
+        title: "The Cell as a Bag of X"
+        description: This vignette describes  the convenient and illuminating abstraction of pretending that cells are bags of genes or proteins or alleles.
+      - url: https://youtu.be/JVGjBILhB7s
+        title: "The Cell as a Bag of mRNA"
+        description: This vignette describes the modern tools of transcriptomics and then borrows from our earlier study of the coupled oscillators to illustrate how the covariance matrix helps us find natural coordinates and perform dimensional reduction.
 
 - day:
   date: Week of Feb. 23 (#8)
