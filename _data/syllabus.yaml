@@ -70,6 +70,9 @@
       - url: https://youtu.be/JVGjBILhB7s
         title: "The Cell as a Bag of mRNA"
         description: This vignette describes the modern tools of transcriptomics and then borrows from our earlier study of the coupled oscillators to illustrate how the covariance matrix helps us find natural coordinates and perform dimensional reduction.
+      - url: https://youtu.be/hXwQVMJNSdI
+        title: "Eigenworm"
+        description: This vignette uses all of our tools about vectors, representations and collective coordinates to examine a brilliant case study in the motion of the worm C. elegans.
 
 - day:
   date: Week of Feb. 23 (#8)
